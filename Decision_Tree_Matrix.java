@@ -9,7 +9,9 @@ public class Decision_Tree_Matrix {
     private final Object[][] trainingOutputs;
     private Node root;
 
-    public Decision_Tree_Matrix(Object[][] trainingFeatures, Object[][] trainingOutputs) {
+    public Decision_Tree_Matrix(Decision_Tree_Training_Data data) {
+        this.trainingFeatures = data.getFeatures();
+        this.trainingOutputs = data.getOutputs();
         if (trainingFeatures == null || trainingOutputs == null) {
             throw new IllegalArgumentException("Training features and outputs cannot be null");
         }
@@ -19,9 +21,8 @@ public class Decision_Tree_Matrix {
         if (trainingFeatures.length == 0) {
             throw new IllegalArgumentException("Training data cannot be empty");
         }
-        this.trainingFeatures = trainingFeatures;
-        this.trainingOutputs = trainingOutputs;
     }
+
 
     public void train() {
         List<Integer> allRows = new ArrayList<>();
@@ -268,47 +269,12 @@ public class Decision_Tree_Matrix {
     }
 
     public static void main(String[] args) {
-        Object[][] trainingFeatures = {
-            { "sunny", "hot", "high", false },
-            { "sunny", "hot", "high", true },
-            { "overcast", "hot", "high", false },
-            { "rain", "mild", "high", false },
-            { "rain", "cool", "normal", false },
-            { "rain", "cool", "normal", true },
-            { "overcast", "cool", "normal", true },
-            { "sunny", "mild", "high", false },
-            { "sunny", "cool", "normal", false },
-            { "rain", "mild", "normal", false },
-            { "sunny", "mild", "normal", true },
-            { "overcast", "mild", "high", true },
-            { "overcast", "hot", "normal", false },
-            { "rain", "mild", "high", true }
-        };
-
-        Object[][] trainingOutputs = {
-            { "no" },
-            { "no" },
-            { "yes" },
-            { "yes" },
-            { "yes" },
-            { "no" },
-            { "yes" },
-            { "no" },
-            { "yes" },
-            { "yes" },
-            { "yes" },
-            { "yes" },
-            { "yes" },
-            { "no" }
-        };
 
         Object[][] inputRows = {
-            { "sunny", "cool", "high", true },
-            { "rain", "mild", "high", false },
-            { "overcast", "hot", "normal", true }
+            {1, 1, 1}
         };
 
-        Decision_Tree_Matrix tree = new Decision_Tree_Matrix(trainingFeatures, trainingOutputs);
+        Decision_Tree_Matrix tree = new Decision_Tree_Matrix(new Decision_Tree_Training_Data("Test.csv"));
         tree.train();
 
         System.out.println("Trained decision tree:");

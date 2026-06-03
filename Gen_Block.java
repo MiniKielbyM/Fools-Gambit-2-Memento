@@ -5,21 +5,25 @@ public class Gen_Block extends Action {
     public int type = 2;
 
     //Constructor for the player blocking
-    public Gen_Block(int m, int r, int c)
+    public Gen_Block(int m, int r, int c, String n, String  d)
 	{
 		min = m;
 		range = r;
         this.cost = c;
+        this.name = n;
+		this.desc = d;
 	}
 
     //Constructor for the player blocking if it us
-    public Gen_Block(int m, int r, int c, int p)
+    public Gen_Block(int m, int r, int c, int p, String n, String  d)
 	{
 		min = m;
 		range = r;
         this.cost = c;
 		para = p;
         type=4;
+        this.name = n;
+		this.desc = d;
 	}
 
     public void setDesc(String d)
