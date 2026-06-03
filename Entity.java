@@ -29,7 +29,7 @@ public class Entity implements Callback {
     public int[] stats = { 0, 0, 0, 0, 3 };
     public boolean isPlayer = false;
     public Callback callback;
-    private int currentAction = 0; // for enemies to keep track of what action they are on
+    private final int currentAction = 0; // for enemies to keep track of what action they are on
     Scanner input = new Scanner(System.in);
 
     // Constructor
