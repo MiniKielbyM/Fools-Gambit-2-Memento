@@ -58,6 +58,7 @@ public class Entity implements Callback {
                 int c = input.nextInt();
                 if (c >= 0 && c < actions.size() && actions.get(c).cost <= stats[4]) {
                     int[] a = actions.get(c).Activate();
+                    boolean actionEndedTurn = false;
                     switch (a[0]) {
                         case 1 -> callback.call(new Object[] { "enemy.damage", a[1] + stats[0] });
                         case 2 -> block += a[1] + stats[1];
@@ -67,6 +68,7 @@ public class Entity implements Callback {
                                     ? Math.floor((double) a[3] / 2.0) - stats[2]
                                     : 0;
                             stats[2] += Math.floor((double) a[3] / 2.0);
+                            actionEndedTurn = checkParaDeath();
                         }
                         case 4 -> {
                             block += a[1] + stats[1];
@@ -74,10 +76,14 @@ public class Entity implements Callback {
                                     ? Math.floor((double) a[3] / 2.0) - stats[2]
                                     : 0;
                             stats[2] += Math.floor((double) a[3] / 2.0);
+                            actionEndedTurn = checkParaDeath();
                         }
                         default -> System.out.println("Invalid action type!");
                     }
                     stats[4] -= actions.get(c).cost;
+                    if (actionEndedTurn || hp <= 0) {
+                        break;
+                    }
                 }
             }
         } else {
@@ -93,6 +99,7 @@ public class Entity implements Callback {
                             ? Math.floor((double) a[3] / 2.0) - stats[2]
                             : 0;
                     stats[2] += Math.floor((double) a[3] / 2.0);
+                    checkParaDeath();
                 }
                 case 4 -> {
                     block += a[1] + stats[1];
@@ -100,6 +107,7 @@ public class Entity implements Callback {
                             ? Math.floor((double) a[3] / 2.0) - stats[2]
                             : 0;
                     stats[2] += Math.floor((double) a[3] / 2.0);
+                    checkParaDeath();
                 }
                 default -> System.out.println("Invalid action type!");
             }
@@ -111,5 +119,14 @@ public class Entity implements Callback {
     public boolean damage(int d) {
         hp -= d;
         return hp <= 0;
+    }
+
+    private boolean checkParaDeath() {
+        if (para >= 100) {
+            hp = 0;
+            System.out.println((isPlayer ? "Player" : "Enemy") + " has died from paralysis!");
+            return true;
+        }
+        return false;
     }
 }
