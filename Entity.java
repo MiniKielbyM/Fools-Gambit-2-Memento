@@ -86,6 +86,7 @@ public class Entity implements Callback {
                     }
                 }
             }
+            //Does enemy turn
         } else {
             System.out.println("Enemy HP: " + hp);
             System.out.println("Enemy uses " + actions.get(currentAction % (actions.size())).name + "!");

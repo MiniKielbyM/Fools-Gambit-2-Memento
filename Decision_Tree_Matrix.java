@@ -421,9 +421,14 @@ public class Decision_Tree_Matrix {
         }
 
         boolean playerOneWon = playerOne.hp > 0 && playerTwo.hp <= 0;
-        List<TrainingExample> winnerExamples = playerOneWon ? p1Moves : p2Moves;
-        for (TrainingExample example : winnerExamples) {
-            tree.observeAndUpdate(example.features, example.output, false);
+//        List<TrainingExample> winnerExamples = playerOneWon ? p1Moves : p2Moves;
+  //      for (TrainingExample example : winnerExamples) {
+    //        tree.observeAndUpdate(example.features, example.output, false);
+      //  }
+        if (!playerOneWon){
+            for(TrainingExample example : p2Moves){
+                tree.observeAndUpdate(example.features, example.output, false);
+            }
         }
         tree.reloadTrainingData();
         tree.train();
@@ -480,7 +485,8 @@ public class Decision_Tree_Matrix {
         if (pool == null || pool.length == 0) {
             return new String[] { "Pistol" };
         }
-        int count = random.nextInt(pool.length) + 1;
+        int next = random.nextInt(pool.length) + 1;
+        int count = next > 1? next : 2;
         List<String> shuffled = new ArrayList<>(Arrays.asList(pool));
         Collections.shuffle(shuffled, random);
         return shuffled.subList(0, count).toArray(new String[0]);

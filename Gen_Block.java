@@ -26,6 +26,7 @@ public class Gen_Block extends Action {
 		this.desc = d;
 	}
 
+    //Helper methods
     public void setDesc(String d)
     {
         this.desc = d;
