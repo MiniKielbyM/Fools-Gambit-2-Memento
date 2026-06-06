@@ -426,8 +426,12 @@ public class Decision_Tree_Matrix {
     //        tree.observeAndUpdate(example.features, example.output, false);
       //  }
         if (!playerOneWon){
-            for(TrainingExample example : p2Moves){
-                tree.observeAndUpdate(example.features, example.output, false);
+            try {
+                for(TrainingExample example : p2Moves){
+                    tree.observeAndUpdate(example.features, example.output, false);
+                }
+            } catch (Exception e) {
+                
             }
         }
         tree.reloadTrainingData();
