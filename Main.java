@@ -43,12 +43,18 @@ public class Main implements Callback {
                 enemy.hp -= damage;
                 System.out.println("Enemy takes " + damage + " damage!");
             }
+            if (type[1].equals("get")){
+                if (type[2].equals("gamedata")){
+                    Main.enemy.call(new Object[]{"AI.data", new Object[][]{}});
+                }
+            }
         }
     }
 
     public static void main(String[] args) {
         while(player.hp > 0)
         {
+            player.shuffle();
             while (player.hp > 0 && player.para <100 && enemy.hp > 0 && enemy.para <100) {
                 player.doTurn();
                 if (enemy.hp > 0) {
@@ -58,6 +64,7 @@ public class Main implements Callback {
                     break;
                 }
             }
+            player.endBattle();
             System.out.println("\n\n");
             for(int i = 0; i<3; i++)
             {
