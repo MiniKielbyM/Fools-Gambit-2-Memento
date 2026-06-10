@@ -1,43 +1,59 @@
 public class Reward {
-    // This class acts as the prent to all rewards
 
-    // Name and description of reward
-    public String name = "";
-    public String desc = "";
-    public Action re;
-    public int stat = 0;
-    public int amt = 0;
-    private Callback callback;
+    public String name;
+    public String desc;
 
-    // Constructor
-    public Reward(String n, String d, int s, int a) {
-        name = n;
-        desc = d;
-        stat = s;
-        amt = a;
+    public enum Type {
+        STAT,
+        ACTION
     }
 
-    // Constructor
-    public Reward(String n, String d, Action a) {
-        name = n;
-        desc = d;
-        re = a;
+    public Type type;
+
+    // stat reward
+    public int statIndex;
+    public int amount;
+
+    // action reward
+    public Action actionReward;
+
+    // STAT reward constructor
+    public Reward(String name, String desc, int statIndex, int amount) {
+        this.name = name;
+        this.desc = desc;
+        this.type = Type.STAT;
+        this.statIndex = statIndex;
+        this.amount = amount;
     }
 
-    // Allows the benifits of the reward to be gained
-    public void gain(Entity e) {
-        callback = e;
-        if (re != null) {
-            callback.call(new Object[] {"reward.re", re});
-        }
-        else
-        {
-            callback.call(new Object[] {"reward.stat", stat, amt});
+    // ACTION reward constructor
+    public Reward(String name, String desc, Action action) {
+        this.name = name;
+        this.desc = desc;
+        this.type = Type.ACTION;
+        this.actionReward = action;
+    }
+
+    public void apply(Entity e) {
+
+        switch (type) {
+
+            case STAT -> {
+                if (statIndex >= 0 && statIndex < e.stats.length) {
+                    e.stats[statIndex] += amount;
+                }
+            }
+
+            case ACTION -> {
+                if (actionReward != null) {
+                    e.deck.add(actionReward);
+                }
+            }
         }
     }
 
     @Override
     public String toString() {
-        return name + ":" + desc;
+        return name + ": " + desc;
     }
 }
