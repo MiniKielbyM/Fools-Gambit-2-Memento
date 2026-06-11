@@ -24,6 +24,7 @@ public class Action_Result {
     }
 
     public static Action_Result from(int[] res, Action a) {
+
         return new Action_Result(
                 switch (res[0]) {
                     case 1 -> Type.DAMAGE;

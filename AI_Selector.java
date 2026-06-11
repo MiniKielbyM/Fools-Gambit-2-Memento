@@ -1,29 +1,36 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class AI_Selector {
 
-    public static Action choose(Entity e, Turn_Context ctx) {
+    public static Action choose(Entity e, TurnContext ctx) {
 
         Object[] features = buildFeatures(e, ctx);
 
+        Map<Action, Double> scores = new HashMap<>();
+
         Object[] pred = e.AI.safePredict(features);
-
-        if (pred == null || pred.length == 0) {
-            return fallback(e);
-        }
-
-        String name = pred[0].toString();
+        String predicted = pred == null ? null : pred[0].toString();
 
         for (Action a : e.hand) {
-            if (a.name.equalsIgnoreCase(name)) return a;
+
+            double score = 0.0;
+
+            if (predicted != null && a.name.equalsIgnoreCase(predicted)) {
+                score += 2.0;
+            }
+
+            if (a.cost <= e.stats[4]) {
+                score += 0.5;
+            }
+
+            scores.put(a, score);
         }
 
-        return fallback(e);
+        return Softmax.pick(e.hand, scores, e.temperature);
     }
 
-    private static Action fallback(Entity e) {
-        return e.hand.isEmpty() ? null : e.hand.get(0);
-    }
-
-    public static Object[] buildFeatures(Entity e, Turn_Context c) {
+    private static Object[] buildFeatures(Entity e, TurnContext c) {
         return new Object[]{
                 c.hp,
                 c.enemyHp,
@@ -31,7 +38,15 @@ public class AI_Selector {
                 c.enemyBlock,
                 c.para,
                 c.enemyPara,
-                c.energy
+                c.energy,
+                hasLucky(e)
         };
+    }
+
+    private static boolean hasLucky(Entity e) {
+        for (Action a : e.hand) {
+            if (a.name.equalsIgnoreCase("Lucky")) return true;
+        }
+        return false;
     }
 }

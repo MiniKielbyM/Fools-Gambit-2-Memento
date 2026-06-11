@@ -1,11 +1,7 @@
+import java.util.*;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
+public class Main {
 
-public class Main implements Callback {
-
-    final static Main main = new Main();
     static Scanner input = new Scanner(System.in);
 
     static ArrayList<Action> baseDeck = new ArrayList<>(
@@ -18,37 +14,18 @@ public class Main implements Callback {
             )
     );
 
-    static Entity player = new Entity(
-            100,
-            new ArrayList<>(baseDeck),
-            true
-    );
-
-    static Entity enemy = new Entity(
-            100,
-            new ArrayList<>(baseDeck),
-            false
-    );
-
-    @Override
-    public void call(Object... args) {
-        String[] type = args[0].toString().split("\\.");
-
-        if (type[0].equals("player") && type[1].equals("damage")) {
-            int damage = (int) args[1];
-            player.hp -= damage;
-            System.out.println("Player takes " + damage + " damage");
-        }
-
-        if (type[0].equals("enemy") && type[1].equals("damage")) {
-            int damage = (int) args[1];
-            enemy.hp -= damage;
-            System.out.println("Enemy takes " + damage + " damage");
-        }
-    }
+    static Entity player = new Entity(100, new ArrayList<>(baseDeck), true);
+    static Entity enemy = new Entity(100, new ArrayList<>(baseDeck), false);
 
     public static void main(String[] args) {
-        Combat_Engine engine = new Combat_Engine(player, enemy, main);
+
+        player.setTarget(enemy);
+        enemy.setTarget(player);
+
+        enemy.temperature = 1.2;
+        player.temperature = 1.0;
+
+        Combat_Engine engine = new Combat_Engine(player, enemy);
         engine.run();
     }
 }

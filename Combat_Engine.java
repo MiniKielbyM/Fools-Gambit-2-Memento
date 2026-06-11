@@ -1,15 +1,15 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Combat_Engine {
 
     private final Entity a;
     private final Entity b;
-    private final Callback callback;
 
-    public Combat_Engine(Entity a, Entity b, Callback cb) {
+    private final Scanner input = new Scanner(System.in);
+
+    public Combat_Engine(Entity a, Entity b) {
         this.a = a;
         this.b = b;
-        this.callback = cb;
 
         a.setTarget(b);
         b.setTarget(a);
@@ -21,9 +21,11 @@ public class Combat_Engine {
 
         while (a.hp > 0 && b.hp > 0) {
 
-            resetRound();
+            a.shuffle();
+            b.shuffle();
 
-            while (canContinue(a) && canContinue(b)) {
+            while (a.hp > 0 && b.hp > 0
+                    && a.para < 100 && b.para < 100) {
 
                 takeTurn(a);
                 if (b.hp <= 0) break;
@@ -49,22 +51,12 @@ public class Combat_Engine {
         AI_Trainer.observe(e, ctx, result);
     }
 
-    private boolean canContinue(Entity e) {
-        return e.hp > 0 && e.para < 100;
-    }
-
-    private void resetRound() {
-        a.shuffle();
-        b.shuffle();
-    }
-
     private void endRound() {
         a.endBattle();
         b.endBattle();
     }
 
     private void reward(Entity e) {
-        if (e != a) return;
 
         System.out.println("\nReward phase");
         System.out.println("0: Strength +3");
@@ -72,8 +64,7 @@ public class Combat_Engine {
         System.out.println("2: Charisma +3");
         System.out.println("3: Tolerance +5");
 
-        Scanner sc = new Scanner(System.in);
-        int choice = sc.nextInt();
+        int choice = input.nextInt();
 
         switch (choice) {
             case 0 -> e.stats[0] += 3;

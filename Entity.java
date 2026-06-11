@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Entity{
+public class Entity {
 
     public ArrayList<Action> deck;
     public ArrayList<Action> hand = new ArrayList<>();
@@ -9,10 +9,12 @@ public class Entity{
     public int hp;
     public int block;
     public int para;
-    public int[] stats = {0,0,0,0,3};
+    public int[] stats = {0, 0, 0, 0, 3};
 
-    public Entity target;
     public boolean isPlayer;
+    public Entity target;
+
+    public double temperature = 1.0;
 
     public Decision_Tree_Matrix AI =
             new Decision_Tree_Matrix(
@@ -56,10 +58,6 @@ public class Entity{
         stats[4] = 3;
     }
 
-    public Turn_Context snapshot() {
-        return new Turn_Context(this);
-    }
-
     public Action_Result takeTurn(Turn_Context ctx) {
 
         draw(5);
@@ -74,7 +72,15 @@ public class Entity{
 
         stats[4] -= chosen.cost;
 
-        int[] res = chosen.Activate();
+        int[] res;
+
+        // Lucky decision injection
+        if (chosen.name.equalsIgnoreCase("Lucky")) {
+            res = chosen.Activate();
+
+        } else {
+            res = chosen.Activate();
+        }
 
         Action_Result result = Action_Result.from(res, chosen);
 
@@ -82,13 +88,13 @@ public class Entity{
 
         hand.remove(chosen);
         discard.add(chosen);
-
         hand.clear();
 
         return result;
     }
 
     private void apply(Action_Result r) {
+
         switch (r.type) {
             case DAMAGE -> target.hp -= r.a;
             case BLOCK -> block += r.a;
