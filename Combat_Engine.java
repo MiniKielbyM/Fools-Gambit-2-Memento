@@ -4,7 +4,6 @@ public class Combat_Engine {
 
     private final Entity a;
     private final Entity b;
-
     private final Scanner input = new Scanner(System.in);
 
     public Combat_Engine(Entity a, Entity b) {
@@ -20,7 +19,6 @@ public class Combat_Engine {
         System.out.println("Battle start");
 
         while (a.hp > 0 && b.hp > 0) {
-
             a.shuffle();
             b.shuffle();
 
@@ -36,7 +34,6 @@ public class Combat_Engine {
             if (a.hp <= 0 || b.hp <= 0) break;
 
             endRound();
-
             reward(a);
         }
 
@@ -45,9 +42,7 @@ public class Combat_Engine {
 
     private void takeTurn(Entity e) {
         Turn_Context ctx = Turn_Context.from(e);
-
         Action_Result result = e.takeTurn(ctx);
-
         AI_Trainer.observe(e, ctx, result);
     }
 

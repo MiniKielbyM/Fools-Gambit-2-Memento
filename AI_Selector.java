@@ -1,9 +1,8 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class AI_Selector {
 
-    public static Action choose(Entity e, TurnContext ctx) {
+    public static Action choose(Entity e, Turn_Context ctx) {
 
         Object[] features = buildFeatures(e, ctx);
 
@@ -14,7 +13,7 @@ public class AI_Selector {
 
         for (Action a : e.hand) {
 
-            double score = 0.0;
+            double score = 0;
 
             if (predicted != null && a.name.equalsIgnoreCase(predicted)) {
                 score += 2.0;
@@ -30,7 +29,7 @@ public class AI_Selector {
         return Softmax.pick(e.hand, scores, e.temperature);
     }
 
-    private static Object[] buildFeatures(Entity e, TurnContext c) {
+    public static Object[] buildFeatures(Entity e, Turn_Context c) {
         return new Object[]{
                 c.hp,
                 c.enemyHp,

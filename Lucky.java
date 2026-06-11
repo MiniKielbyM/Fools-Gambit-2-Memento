@@ -6,42 +6,34 @@ public class Lucky extends Action {
 
     public Lucky() {
         this.name = "Lucky";
-        this.desc = "Flip a coin until you get tails, then deal 10 damage doubled for every heads!";
+        this.desc = "Risk-based exponential damage or safety stop.";
         this.cost = 2;
     }
 
-    @Override
-    public int[] Activate() {
+    public int[] Activate(boolean keepFlipping) {
 
         boolean coin = true;
         int damage = 5;
         int para = 0;
         int type = 1;
 
-        // simulate risk decision internally (no input system)
-        boolean keepFlipping = rand.nextDouble() < 0.5;
-
         while (coin) {
 
             damage *= 2;
             coin = rand.nextDouble() >= 0.5;
 
-            if (!coin) {
-
-                // probabilistic risk continuation (AI-like behavior)
-                if (keepFlipping && rand.nextDouble() < 0.5) {
-                    para += 10;
-                    type = 3;
-                    coin = true;
-                }
+            if (!coin && keepFlipping && rand.nextDouble() < 0.5) {
+                para += 10;
+                type = 3;
+                coin = true;
             }
         }
+        System.out.println("Current Damage: " + damage);
+        return new int[]{type, damage, para, cost};
+    }
 
-        return new int[] {
-                type,
-                damage,
-                para,
-                cost
-        };
+    @Override
+    public int[] Activate() {
+        return Activate(false);
     }
 }

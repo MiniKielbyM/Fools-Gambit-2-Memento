@@ -1,11 +1,2598 @@
 
+100,100,0,0,0,0,3,false,Shotgun
+38,100,0,0,0,40,3,false,Pistol
+53,38,0,15,40,0,0,false,Rifle
+14,53,15,45,0,55,0,false,Take Cover
+31,14,45,60,55,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+60,100,0,15,0,40,3,false,Ice Barrier
+56,60,15,30,40,15,0,false,Ice Barrier
+36,56,30,45,15,55,0,false,Rifle
+7,36,45,30,55,15,1,false,Ice Barrier
+13,7,30,90,15,70,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+49,100,0,30,0,55,3,false,Take Cover
+77,49,30,45,55,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+61,100,0,15,0,0,3,false,FIREBALL
+29,61,15,0,0,40,0,false,Take Cover
+39,29,0,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+43,100,0,30,0,55,3,false,Ice Barrier
+81,43,30,45,55,15,0,false,Take Cover
+43,81,45,75,15,70,0,false,Take Cover
+30,43,75,60,70,55,1,false,Rifle
+19,30,60,120,55,85,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+25,100,0,0,0,40,3,false,Ice Barrier
+53,25,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+54,100,0,30,0,15,3,false,FIREBALL
+30,54,30,0,15,40,0,false,Rifle
+32,30,0,60,40,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+66,100,0,15,0,0,3,false,Pistol
+82,66,15,45,0,15,0,false,Pistol
+20,82,45,15,15,0,0,false,Shotgun
+16,20,15,45,0,55,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+60,100,0,30,0,55,3,false,Shotgun
+90,60,30,15,55,0,0,false,Shotgun
+14,90,15,30,0,55,1,false,Pistol
+44,14,30,45,55,15,1,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+33,100,0,0,0,0,3,false,Rifle
+52,33,0,15,0,0,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+30,100,0,0,0,40,3,false,Ice Barrier
+44,30,0,30,40,55,0,false,Take Cover
+7,44,30,15,55,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+84,100,0,45,0,15,3,false,Take Cover
+81,84,45,45,15,15,0,false,FIREBALL
+52,81,45,75,15,70,0,false,Shotgun
+26,52,75,75,70,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+45,100,0,0,0,40,3,false,FIREBALL
+57,45,0,15,40,40,0,false,Ice Barrier
+11,57,15,30,40,95,0,false,FIREBALL
+15,11,30,45,95,95,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+72,100,0,45,0,15,3,false,FIREBALL
+52,72,45,0,15,40,0,false,Pistol
+12,52,0,45,40,55,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+54,100,0,15,0,40,3,false,Shotgun
+30,54,15,0,40,40,0,false,Rifle
+32,30,0,45,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+56,100,0,15,0,0,3,false,Shotgun
+27,56,15,0,0,0,0,false,Shotgun
+20,27,0,30,0,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+52,100,0,0,0,40,3,false,Take Cover
+62,52,0,15,40,0,0,false,Pistol
+3,62,15,0,0,80,0,false,Pistol
+23,3,0,30,80,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+25,100,0,0,0,40,3,false,FIREBALL
+56,25,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+42,100,0,30,0,55,3,false,Pistol
+65,42,30,30,55,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+19,100,0,0,0,40,3,false,Ice Barrier
+64,19,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+20,100,0,0,0,40,3,false,Pistol
+50,20,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,30,0,15,3,false,FIREBALL
+15,60,30,0,15,40,0,false,Pistol
+13,15,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+27,100,0,0,0,40,3,false,Rifle
+31,27,0,0,40,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+65,100,0,15,0,0,3,false,Rifle
+60,65,15,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+62,100,0,0,0,0,3,false,Rifle
+77,62,0,30,0,15,1,false,Ice Barrier
+28,77,30,30,15,15,1,false,FIREBALL
+14,28,30,30,15,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Pistol
+48,78,45,0,15,0,0,false,Shotgun
+45,48,0,60,0,15,1,false,Take Cover
+25,45,60,45,15,15,1,false,Pistol
+9,25,45,90,15,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+55,100,0,0,0,0,3,false,Shotgun
+69,55,0,45,0,15,1,false,Shotgun
+15,69,45,0,15,0,0,false,Ice Barrier
+49,15,0,90,0,30,1,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+22,100,0,0,0,40,3,false,FIREBALL
+23,22,0,0,40,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+41,100,0,0,0,40,3,false,Ice Barrier
+61,41,0,30,40,15,0,false,Ice Barrier
+4,61,30,30,15,95,0,false,Take Cover
+61,4,30,75,95,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Ice Barrier
+78,33,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,FIREBALL
+57,26,0,30,40,55,0,false,Pistol
+2,57,30,30,55,55,0,false,Ice Barrier
+34,2,30,75,55,70,1,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+39,100,0,0,0,40,3,false,Take Cover
+89,39,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+57,100,0,15,0,40,3,false,Pistol
+74,57,15,0,40,0,0,false,Pistol
+1,74,0,15,0,80,1,false,Pistol
+51,1,15,15,80,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+77,100,0,45,0,15,3,false,Shotgun
+66,77,45,30,15,15,0,false,Take Cover
+53,66,30,90,15,30,0,false,Ice Barrier
+26,53,90,60,30,70,0,false,Ice Barrier
+37,26,60,135,70,45,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+82,100,0,30,0,15,3,false,Shotgun
+56,82,30,15,15,0,1,false,Rifle
+60,56,15,75,0,30,0,false,Shotgun
+41,60,75,30,30,0,0,false,Take Cover
+60,41,30,120,0,45,1,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,45,0,15,3,false,Ice Barrier
+100,78,45,45,15,15,0,false,Pistol
+3,100,45,45,15,15,1,false,Rifle
+55,3,45,75,15,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+61,100,0,30,0,15,3,false,Take Cover
+57,61,30,15,15,40,0,false,Ice Barrier
+3,57,15,60,40,30,0,false,Rifle
+13,3,60,15,30,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+44,100,0,0,0,40,3,false,FIREBALL
+54,44,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+48,100,0,0,0,40,3,false,Take Cover
+84,48,0,45,40,15,0,false,Ice Barrier
+26,84,45,30,15,55,0,false,Shotgun
+13,26,30,45,55,55,1,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+75,100,0,45,0,15,3,false,Shotgun
+49,75,45,15,15,0,0,false,Shotgun
+32,49,15,75,0,30,0,false,Pistol
+33,32,75,60,30,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+32,100,0,0,0,40,3,false,Ice Barrier
+100,32,0,45,40,15,0,false,FIREBALL
+1,100,45,15,15,80,1,false,Rifle
+59,1,15,60,80,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+20,100,0,0,0,40,3,false,Take Cover
+71,20,0,15,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+55,100,0,30,0,55,3,false,Rifle
+34,55,30,0,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+76,100,0,30,0,15,3,false,Pistol
+34,76,30,0,15,40,1,false,FIREBALL
+21,34,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+57,100,0,15,0,0,3,false,Ice Barrier
+54,57,15,30,0,15,0,false,Ice Barrier
+23,54,30,60,15,15,0,false,Shotgun
+14,23,60,45,15,15,0,false,Ice Barrier
+2,14,45,105,15,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+77,100,0,15,0,0,3,false,FIREBALL
+19,77,15,0,0,40,1,false,Take Cover
+53,19,0,60,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+62,100,0,15,0,40,3,false,Rifle
+44,62,15,30,40,15,0,false,FIREBALL
+19,44,30,30,15,80,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+27,100,0,0,0,40,3,false,FIREBALL
+49,27,0,30,40,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+68,100,0,30,0,15,3,false,Take Cover
+57,68,30,15,15,0,0,false,Pistol
+37,57,15,60,0,30,0,false,Rifle
+10,37,60,30,30,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+70,100,0,30,0,55,3,false,FIREBALL
+27,70,30,0,55,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,0,3,false,Rifle
+34,53,15,0,0,40,0,false,FIREBALL
+17,34,0,30,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+68,100,0,15,0,0,3,false,Pistol
+39,68,15,0,0,40,0,false,Rifle
+44,39,0,30,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+67,100,0,15,0,0,3,false,Take Cover
+58,67,15,15,0,40,1,false,Pistol
+50,58,15,30,40,0,0,false,Take Cover
+28,50,30,30,0,80,1,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+37,100,0,0,0,40,3,false,FIREBALL
+49,37,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+76,100,0,15,0,0,3,false,Shotgun
+23,76,15,0,0,40,1,false,Shotgun
+23,23,0,15,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+42,100,0,15,0,40,3,false,Shotgun
+58,42,15,15,40,0,0,false,Pistol
+26,58,15,60,0,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+42,100,0,15,0,0,3,false,Take Cover
+42,42,15,15,0,40,0,false,Take Cover
+20,42,15,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+68,100,0,0,0,0,3,false,Ice Barrier
+49,68,0,30,0,15,1,false,Rifle
+24,49,30,30,15,15,0,false,Shotgun
+8,24,30,30,15,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+85,100,0,45,0,15,3,false,Shotgun
+37,85,45,0,15,0,0,false,Shotgun
+6,37,0,45,0,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+61,100,0,30,0,15,3,false,Shotgun
+76,61,30,30,15,15,0,false,Rifle
+21,76,30,60,15,30,1,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+61,100,0,30,0,15,3,false,FIREBALL
+25,61,30,0,15,40,0,false,Take Cover
+61,25,0,75,40,30,0,false,Take Cover
+25,61,75,45,30,55,1,false,FIREBALL
+12,25,45,105,55,85,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+59,100,0,15,0,0,3,false,Rifle
+60,59,15,15,0,0,0,false,Shotgun
+25,60,15,30,0,0,0,false,Shotgun
+12,25,30,30,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,45,0,15,3,false,Rifle
+77,100,45,30,15,15,1,false,Pistol
+32,77,30,45,15,15,1,false,Ice Barrier
+57,32,45,75,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+31,100,0,0,0,40,3,false,Rifle
+76,31,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,FIREBALL
+31,33,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+41,100,0,0,0,40,3,false,Rifle
+41,41,0,0,40,40,0,false,Ice Barrier
+4,41,0,30,40,95,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+54,100,0,0,0,0,3,false,Take Cover
+62,54,0,15,0,40,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+51,100,0,30,0,15,3,false,Take Cover
+65,51,30,15,15,40,0,false,Ice Barrier
+27,65,15,75,40,30,0,false,Shotgun
+28,27,75,15,30,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+43,100,0,30,0,55,3,false,FIREBALL
+28,43,30,0,55,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+54,100,0,15,0,40,3,false,Ice Barrier
+63,54,15,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+42,100,0,0,0,40,3,false,Pistol
+48,42,0,0,40,0,0,false,Ice Barrier
+22,48,0,45,0,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+46,100,0,15,0,40,3,false,Pistol
+52,46,15,30,40,15,0,false,Shotgun
+24,52,30,60,15,55,0,false,Take Cover
+24,24,60,75,55,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+59,100,0,15,0,0,3,false,Take Cover
+44,59,15,15,0,40,0,false,Take Cover
+35,44,15,60,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+80,100,0,15,0,0,3,false,Ice Barrier
+76,80,15,45,0,15,1,false,FIREBALL
+49,76,45,30,15,40,0,false,FIREBALL
+16,49,30,45,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+77,100,0,45,0,15,3,false,Pistol
+83,77,45,15,15,0,0,false,Rifle
+54,83,15,90,0,30,1,false,Shotgun
+22,54,90,15,30,0,0,false,Take Cover
+29,22,15,135,0,45,0,false,Take Cover
+2,29,135,60,45,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+59,100,0,30,0,15,3,false,Take Cover
+87,59,30,15,15,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+42,100,0,0,0,0,3,false,Shotgun
+51,42,0,15,0,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+60,100,0,30,0,55,3,false,Pistol
+77,60,30,45,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+30,100,0,0,0,40,3,false,Take Cover
+54,30,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+41,100,0,30,0,55,3,false,Rifle
+40,41,30,0,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+49,100,0,0,0,40,3,false,FIREBALL
+60,49,0,15,40,40,0,false,Rifle
+14,60,15,30,40,55,0,false,FIREBALL
+9,14,30,15,55,80,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+24,100,0,0,0,40,3,false,Rifle
+60,24,0,15,40,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+79,100,0,45,0,15,3,false,FIREBALL
+54,79,45,15,15,40,0,false,Pistol
+24,54,15,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+64,100,0,15,0,0,3,false,Take Cover
+53,64,15,15,0,0,0,false,Ice Barrier
+30,53,15,45,0,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+35,100,0,0,0,0,3,false,FIREBALL
+68,35,0,15,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+61,100,0,15,0,0,3,false,FIREBALL
+22,61,15,0,0,40,0,false,Ice Barrier
+12,22,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+57,100,0,15,0,40,3,false,Take Cover
+79,57,15,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+69,100,0,30,0,15,3,false,Take Cover
+79,69,30,15,15,0,1,false,Shotgun
+28,79,15,45,0,15,1,false,Take Cover
+69,28,45,60,15,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+24,100,0,0,0,40,3,false,Rifle
+57,24,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+30,100,0,0,0,40,3,false,Shotgun
+82,30,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,45,0,15,3,false,Ice Barrier
+62,78,45,30,15,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+68,100,0,30,0,55,3,false,Pistol
+55,68,30,15,55,0,0,false,Take Cover
+44,55,15,75,0,70,0,false,Take Cover
+38,44,75,30,70,0,0,false,Take Cover
+23,38,30,120,0,85,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+57,100,0,15,0,0,3,false,Ice Barrier
+50,57,15,30,0,55,0,false,Take Cover
+16,50,30,30,55,40,0,false,Ice Barrier
+28,16,30,75,40,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Ice Barrier
+77,33,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+43,100,0,30,0,55,3,false,Shotgun
+70,43,30,15,55,0,0,false,Rifle
+21,70,15,75,0,70,1,false,Pistol
+51,21,75,30,70,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+34,100,0,0,0,40,3,false,FIREBALL
+32,34,0,0,40,40,0,false,Take Cover
+13,32,0,45,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+32,100,0,0,0,40,3,false,Take Cover
+83,32,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+46,100,0,15,0,0,3,false,Rifle
+51,46,15,30,0,15,0,false,Take Cover
+21,51,30,60,15,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+47,100,0,15,0,0,3,false,Take Cover
+75,47,15,45,0,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+57,100,0,15,0,0,3,false,Shotgun
+41,57,15,0,0,0,0,false,Ice Barrier
+7,41,0,45,0,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,0,3,false,FIREBALL
+33,53,15,0,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+76,100,0,30,0,15,3,false,Ice Barrier
+83,76,30,30,15,15,1,false,FIREBALL
+20,83,30,30,15,55,1,false,Pistol
+5,20,30,30,55,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+44,100,0,0,0,40,3,false,Rifle
+51,44,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+28,100,0,0,0,40,3,false,Take Cover
+76,28,0,45,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+41,100,0,0,0,40,3,false,Take Cover
+75,41,0,45,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+41,100,0,0,0,40,3,false,Shotgun
+77,41,0,30,40,15,0,false,Ice Barrier
+11,77,30,30,15,95,1,false,Take Cover
+53,11,30,75,95,30,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,Ice Barrier
+76,26,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+83,100,0,15,0,0,3,false,Pistol
+77,83,15,30,0,15,1,false,Take Cover
+38,77,30,30,15,0,1,false,Rifle
+28,38,30,60,0,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+27,100,0,0,0,40,3,false,Ice Barrier
+45,27,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+65,100,0,30,0,55,3,false,Take Cover
+65,65,30,15,55,0,0,false,Shotgun
+54,65,15,75,0,70,0,false,Take Cover
+36,54,75,60,70,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+64,100,0,0,0,0,3,false,Ice Barrier
+43,64,0,30,0,55,1,false,FIREBALL
+15,43,30,30,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+64,100,0,30,0,55,3,false,FIREBALL
+20,64,30,0,55,40,0,false,Ice Barrier
+27,20,0,60,40,110,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+76,100,0,30,0,15,3,false,Take Cover
+50,76,30,15,15,0,1,false,Take Cover
+31,50,15,45,0,15,0,false,Take Cover
+28,31,45,30,15,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+34,100,0,0,0,0,3,false,Rifle
+76,34,0,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+50,100,0,0,0,40,3,false,Take Cover
+76,50,0,45,40,15,0,false,Pistol
+5,76,45,30,15,55,0,false,Take Cover
+29,5,30,60,55,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Pistol
+46,33,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Shotgun
+81,100,45,45,15,15,1,false,FIREBALL
+23,81,45,45,15,55,0,false,Shotgun
+54,23,45,75,55,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+44,100,0,0,0,0,3,false,Rifle
+77,44,0,15,0,0,1,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+67,100,0,15,0,40,3,false,Shotgun
+40,67,15,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+68,100,0,15,0,0,3,false,Pistol
+75,68,15,45,0,15,1,false,Take Cover
+51,75,45,60,15,15,0,false,Pistol
+58,51,60,60,15,15,0,false,Rifle
+12,58,60,75,15,15,1,false,Ice Barrier
+23,12,75,90,15,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+45,100,0,30,0,15,3,false,Take Cover
+100,45,30,45,15,15,0,false,Ice Barrier
+22,100,45,75,15,30,1,false,FIREBALL
+57,22,75,75,30,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+67,100,0,30,0,15,3,false,Take Cover
+65,67,30,15,15,40,0,false,Take Cover
+44,65,15,75,40,30,0,false,Shotgun
+41,44,75,60,30,55,0,false,Rifle
+3,41,60,105,55,45,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+50,100,0,30,0,55,3,false,Ice Barrier
+78,50,30,45,55,15,0,false,Take Cover
+50,78,45,75,15,70,0,false,Shotgun
+35,50,75,60,70,15,1,false,Take Cover
+9,35,60,90,15,110,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+78,100,0,15,0,0,3,false,Shotgun
+70,78,15,30,0,15,1,false,FIREBALL
+43,70,30,30,15,40,0,false,Rifle
+24,43,30,60,40,30,0,false,Take Cover
+8,24,60,45,30,80,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+82,100,0,45,0,15,3,false,Take Cover
+63,82,45,15,15,40,0,false,Pistol
+26,63,15,45,40,55,0,false,FIREBALL
+19,26,45,45,55,95,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+39,100,0,0,0,40,3,false,Shotgun
+76,39,0,15,40,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+65,100,0,30,0,15,3,false,Pistol
+54,65,30,0,15,0,0,false,Pistol
+4,54,0,30,0,55,1,false,Pistol
+32,4,30,45,55,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Take Cover
+76,33,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,Pistol
+62,78,15,15,0,0,1,false,Rifle
+35,62,15,45,0,15,0,false,Rifle
+27,35,45,30,15,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+65,100,0,15,0,0,3,false,Ice Barrier
+77,65,15,30,0,15,0,false,Shotgun
+43,77,30,60,15,15,1,false,Pistol
+30,43,60,45,15,15,0,false,Shotgun
+18,30,45,105,15,30,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+44,100,0,30,0,55,3,false,Take Cover
+47,44,30,15,55,0,0,false,Rifle
+5,47,15,45,0,55,0,false,Take Cover
+16,5,45,30,55,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+76,100,0,15,0,0,3,false,Rifle
+66,76,15,30,0,15,1,false,Take Cover
+35,66,30,30,15,0,0,false,Pistol
+28,35,30,45,0,15,0,false,Pistol
+10,28,45,60,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+27,100,0,0,0,0,3,false,FIREBALL
+67,27,0,30,0,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+44,100,0,30,0,55,3,false,Rifle
+52,44,30,15,55,0,0,false,Ice Barrier
+21,52,15,75,0,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+11,100,0,0,0,40,3,false,Take Cover
+61,11,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+38,100,0,0,0,40,3,false,Shotgun
+25,38,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+44,100,0,30,0,55,3,false,Shotgun
+72,44,30,15,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+37,100,0,0,0,40,3,false,Pistol
+53,37,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+29,100,0,0,0,40,3,false,Shotgun
+56,29,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+50,100,0,15,0,40,3,false,Ice Barrier
+58,50,15,30,40,15,0,false,Shotgun
+35,58,30,45,15,55,0,false,Take Cover
+34,35,45,45,55,15,1,false,Take Cover
+2,34,45,60,15,55,1,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+27,100,0,0,0,0,3,false,Shotgun
+18,27,0,0,0,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+24,100,0,0,0,40,3,false,Rifle
+39,24,0,0,40,40,0,false,Take Cover
+11,39,0,45,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,15,0,0,3,false,Shotgun
+42,53,15,0,0,40,0,false,Rifle
+10,42,0,30,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+35,100,0,0,0,40,3,false,Shotgun
+55,35,0,0,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+89,100,0,45,0,15,3,false,Ice Barrier
+59,89,45,30,15,15,0,false,Rifle
+66,59,30,90,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+55,100,0,30,0,55,3,false,Pistol
+70,55,30,15,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+63,100,0,30,0,15,3,false,Rifle
+77,63,30,15,15,0,0,false,Pistol
+29,77,15,30,0,15,1,false,Pistol
+58,29,30,60,15,15,1,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,Ice Barrier
+41,26,0,30,40,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+61,100,0,0,0,0,3,false,Shotgun
+82,61,0,45,0,15,1,false,Shotgun
+4,82,45,15,15,0,0,false,Ice Barrier
+65,4,15,90,0,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+62,100,0,30,0,55,3,false,Pistol
+32,62,30,0,55,40,0,false,Pistol
+39,32,0,75,40,70,0,false,Ice Barrier
+12,39,75,30,70,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+42,100,0,0,0,40,3,false,FIREBALL
+67,42,0,15,40,40,0,false,Shotgun
+4,67,15,15,40,40,0,false,Pistol
+37,4,15,45,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+60,100,0,15,0,40,3,false,Shotgun
+50,60,15,15,40,0,0,false,FIREBALL
+1,50,15,30,0,80,0,false,Ice Barrier
+33,1,30,45,80,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+43,100,0,15,0,40,3,false,Rifle
+42,43,15,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+49,100,0,30,0,55,3,false,FIREBALL
+55,49,30,30,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,40,3,false,FIREBALL
+29,63,15,0,40,40,0,false,Rifle
+24,29,0,45,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+24,100,0,0,0,40,3,false,Rifle
+76,24,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+21,100,0,0,0,40,3,false,FIREBALL
+19,21,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+37,100,0,0,0,40,3,false,Rifle
+62,37,0,0,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+70,100,0,15,0,40,3,false,Rifle
+77,70,15,45,40,15,0,false,FIREBALL
+11,77,45,45,15,95,0,false,Ice Barrier
+53,11,45,90,95,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,30,0,15,3,false,Take Cover
+59,78,30,15,15,40,1,false,FIREBALL
+9,59,15,30,40,55,0,false,Ice Barrier
+14,9,30,45,55,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Take Cover
+49,33,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+79,100,0,45,0,15,3,false,Pistol
+61,79,45,30,15,15,0,false,Pistol
+40,61,30,75,15,30,0,false,Pistol
+18,40,75,60,30,30,0,false,Take Cover
+17,18,60,120,30,45,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+27,100,0,0,0,40,3,false,FIREBALL
+68,27,0,30,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+38,100,0,0,0,40,3,false,Ice Barrier
+60,38,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+21,100,0,0,0,40,3,false,Rifle
+45,21,0,0,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+71,100,0,15,0,0,3,false,Ice Barrier
+84,71,15,45,0,15,0,false,Shotgun
+42,84,45,45,15,15,0,false,FIREBALL
+7,42,45,45,15,55,1,false,Take Cover
+18,7,45,90,55,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+63,100,0,30,0,15,3,false,Take Cover
+59,63,30,15,15,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+48,100,0,30,0,55,3,false,Take Cover
+53,48,30,15,55,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+83,100,0,15,0,0,3,false,FIREBALL
+33,83,15,0,0,40,1,false,Rifle
+5,33,0,15,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+81,100,0,15,0,0,3,false,Shotgun
+58,81,15,0,0,0,1,false,Rifle
+59,58,0,60,0,15,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+51,100,0,0,0,0,3,false,Pistol
+25,51,0,0,0,40,1,false,Take Cover
+4,25,0,15,40,0,0,false,Take Cover
+13,4,15,15,0,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+41,100,0,0,0,40,3,false,Ice Barrier
+48,41,0,30,40,15,0,false,Pistol
+22,48,30,15,15,40,0,false,Ice Barrier
+4,22,15,60,40,70,1,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+77,100,0,45,0,15,3,false,Pistol
+84,77,45,15,15,0,0,false,Ice Barrier
+32,84,15,75,0,70,1,false,Shotgun
+48,32,75,45,70,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+53,100,0,0,0,0,3,false,Rifle
+58,53,0,0,0,0,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,Rifle
+52,26,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,40,3,false,FIREBALL
+67,63,15,30,40,55,0,false,Rifle
+40,67,30,45,55,55,0,false,FIREBALL
+13,40,45,45,55,95,1,false,Ice Barrier
+6,13,45,75,95,70,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+19,100,0,0,0,40,3,false,Take Cover
+54,19,0,15,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+42,100,0,15,0,40,3,false,FIREBALL
+31,42,15,0,40,40,0,false,Take Cover
+19,31,0,60,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+31,100,0,0,0,40,3,false,Take Cover
+59,31,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Shotgun
+52,78,45,30,15,15,0,false,Take Cover
+68,52,30,90,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+61,100,0,15,0,0,3,false,Shotgun
+23,61,15,0,0,40,0,false,Shotgun
+19,23,0,30,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+28,100,0,0,0,40,3,false,Ice Barrier
+55,28,0,30,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+26,100,0,0,0,40,3,false,Shotgun
+44,26,0,0,40,40,0,false,Take Cover
+3,44,0,45,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+21,100,0,0,0,40,3,false,Rifle
+41,21,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,15,0,0,3,false,FIREBALL
+37,60,15,0,0,40,0,false,Shotgun
+18,37,0,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+47,100,0,0,0,40,3,false,Ice Barrier
+77,47,0,45,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+69,100,0,15,0,40,3,false,Ice Barrier
+100,69,15,45,40,15,0,false,Ice Barrier
+36,100,45,45,15,95,1,false,Ice Barrier
+83,36,45,75,95,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+77,100,0,15,0,0,3,false,Ice Barrier
+100,77,15,45,0,15,1,false,Shotgun
+25,100,45,45,15,15,1,false,FIREBALL
+64,25,45,75,15,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+30,100,0,0,0,40,3,false,Take Cover
+76,30,0,45,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+30,100,0,0,0,40,3,false,Take Cover
+66,30,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+70,100,0,15,0,0,3,false,Shotgun
+44,70,15,30,0,15,1,false,Rifle
+32,44,30,30,15,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+58,100,0,15,0,40,3,false,Pistol
+40,58,15,0,40,40,0,false,FIREBALL
+20,40,0,45,40,95,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+29,100,0,0,0,40,3,false,FIREBALL
+38,29,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+40,100,0,0,0,0,3,false,Take Cover
+57,40,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+31,100,0,0,0,40,3,false,Take Cover
+65,31,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+33,100,0,0,0,40,3,false,Rifle
+58,33,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+63,100,0,0,0,0,3,false,FIREBALL
+46,63,0,0,0,40,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+20,100,0,0,0,40,3,false,Ice Barrier
+49,20,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+49,100,0,15,0,40,3,false,FIREBALL
+43,49,15,0,40,40,0,false,Shotgun
+8,43,0,45,40,55,0,false,FIREBALL
+5,8,45,30,55,95,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+44,100,0,0,0,40,3,false,Shotgun
+28,44,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+43,100,0,0,0,40,3,false,Shotgun
+66,43,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+83,100,0,45,0,15,3,false,Pistol
+54,83,45,0,15,40,0,false,FIREBALL
+40,54,0,75,40,70,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+27,100,0,0,0,40,3,false,Take Cover
+47,27,0,15,40,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+43,100,0,0,0,40,3,false,Ice Barrier
+50,43,0,30,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+30,100,0,0,0,40,3,false,Rifle
+78,30,0,45,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+38,100,0,0,0,40,3,false,Pistol
+77,38,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+43,100,0,0,0,40,3,false,Pistol
+55,43,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,Take Cover
+54,78,15,15,0,40,1,false,Rifle
+41,54,15,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+54,100,0,0,0,40,3,false,Take Cover
+54,54,0,15,40,0,0,false,Ice Barrier
+11,54,15,30,0,95,0,false,Rifle
+32,11,30,60,95,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+49,100,0,0,0,40,3,false,Shotgun
+67,49,0,15,40,0,0,false,Take Cover
+4,67,15,15,0,40,1,false,Pistol
+34,4,15,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+23,100,0,0,0,40,3,false,Take Cover
+74,23,0,45,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+45,100,0,30,0,15,3,false,FIREBALL
+42,45,30,0,15,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,Take Cover
+53,78,15,15,0,0,1,false,Take Cover
+36,53,15,30,0,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+51,100,0,30,0,15,3,false,Ice Barrier
+64,51,30,30,15,55,0,false,Ice Barrier
+28,64,30,75,55,30,0,false,FIREBALL
+9,28,0,0,0,0,3,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+28,100,0,0,0,40,3,false,Take Cover
+77,28,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+48,100,0,15,0,40,3,false,Pistol
+61,48,15,0,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+61,100,0,30,0,15,3,false,Rifle
+26,61,30,0,15,40,0,false,Rifle
+10,26,0,60,40,30,0,false,Ice Barrier
+3,10,60,30,30,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+55,100,0,0,0,40,3,false,Ice Barrier
+76,55,0,45,40,15,0,false,Take Cover
+16,76,45,15,15,80,0,false,Rifle
+31,16,15,75,80,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+38,100,0,0,0,40,3,false,Pistol
+81,38,0,45,40,15,0,false,Shotgun
+1,81,45,15,15,40,0,false,Shotgun
+63,1,15,90,40,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,0,3,false,Take Cover
+63,53,15,15,0,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+41,100,0,15,0,40,3,false,Rifle
+78,41,15,45,40,15,0,false,Take Cover
+10,78,45,30,15,80,0,false,Pistol
+60,10,30,90,80,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,30,0,15,3,false,Ice Barrier
+65,60,30,30,15,15,0,false,Pistol
+40,65,30,75,15,30,0,false,Ice Barrier
+9,40,75,60,30,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+66,100,0,15,0,0,3,false,Take Cover
+55,66,15,15,0,0,0,false,FIREBALL
+17,55,15,45,0,55,0,false,Pistol
+17,17,45,15,55,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+30,100,0,0,0,40,3,false,Take Cover
+54,30,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+51,100,0,15,0,40,3,false,Ice Barrier
+58,51,15,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+63,100,0,15,0,40,3,false,FIREBALL
+33,63,15,0,40,40,0,false,Shotgun
+13,33,0,15,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+30,100,0,0,0,40,3,false,FIREBALL
+40,30,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+21,100,0,0,0,40,3,false,Shotgun
+10,21,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+68,100,0,30,0,55,3,false,Shotgun
+29,68,30,0,55,0,0,false,Shotgun
+11,29,0,30,0,95,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,45,0,15,3,false,FIREBALL
+62,78,45,30,15,55,0,false,Take Cover
+39,62,30,60,55,55,0,false,Shotgun
+23,39,60,30,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+31,100,0,0,0,40,3,false,Ice Barrier
+77,31,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,FIREBALL
+45,78,15,15,0,40,1,false,Rifle
+55,45,15,60,40,15,0,false,Take Cover
+24,55,60,30,15,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+42,100,0,15,0,0,3,false,Rifle
+53,42,15,15,0,0,0,false,Rifle
+4,53,15,30,0,0,0,false,Pistol
+11,4,30,30,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+54,100,0,30,0,55,3,false,FIREBALL
+45,54,30,15,55,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,40,3,false,Rifle
+42,53,15,0,40,0,0,false,Rifle
+31,42,0,45,0,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,40,3,false,Take Cover
+60,63,15,15,40,0,0,false,Pistol
+23,60,15,30,0,40,0,false,Take Cover
+6,23,30,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+39,100,0,0,0,40,3,false,FIREBALL
+60,39,0,15,40,40,0,false,Shotgun
+8,60,15,30,40,55,0,false,Shotgun
+16,8,30,45,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+32,100,0,0,0,40,3,false,Ice Barrier
+59,32,0,30,40,55,0,false,Ice Barrier
+32,59,30,45,55,55,0,false,Shotgun
+21,32,45,60,55,70,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+44,100,0,30,0,15,3,false,Take Cover
+62,44,30,15,15,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+80,100,0,30,0,15,3,false,FIREBALL
+63,80,30,15,15,40,1,false,Take Cover
+59,63,15,75,40,30,0,false,Take Cover
+32,59,75,30,30,80,0,false,Take Cover
+28,32,30,90,80,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+32,100,0,0,0,40,3,false,Take Cover
+65,32,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+31,100,0,0,0,0,3,false,Take Cover
+76,31,0,45,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+58,100,0,15,0,0,3,false,Ice Barrier
+53,58,15,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+27,100,0,0,0,40,3,false,FIREBALL
+20,27,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+72,100,0,30,0,15,3,false,Take Cover
+63,72,30,15,15,40,0,false,Shotgun
+52,63,15,60,40,30,0,false,Rifle
+17,52,60,15,30,40,1,false,Pistol
+6,17,15,75,40,30,1,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+53,100,0,0,0,0,3,false,Shotgun
+34,53,0,0,0,0,1,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+55,100,0,15,0,0,3,false,Take Cover
+65,55,15,15,0,0,0,false,Ice Barrier
+18,65,15,45,0,55,0,false,Pistol
+40,18,45,60,55,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+26,100,0,0,0,0,3,false,Take Cover
+77,26,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+70,100,0,15,0,40,3,false,Take Cover
+78,70,15,45,40,15,0,false,Pistol
+27,78,45,30,15,40,0,false,FIREBALL
+6,27,30,45,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+30,100,0,0,0,40,3,false,Take Cover
+78,30,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+68,100,0,45,0,15,3,false,Take Cover
+100,68,45,45,15,15,0,false,Shotgun
+38,100,45,90,15,30,1,false,Rifle
+54,38,90,60,30,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+17,100,0,0,0,40,3,false,Pistol
+44,17,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+83,100,0,30,0,15,3,false,Ice Barrier
+75,83,30,30,15,15,1,false,Shotgun
+15,75,30,30,15,55,1,false,Shotgun
+53,15,30,75,55,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+56,100,0,30,0,55,3,false,Ice Barrier
+52,56,30,30,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+56,100,0,15,0,0,3,false,Rifle
+59,56,15,0,0,0,0,false,Take Cover
+15,59,0,30,0,0,1,false,Rifle
+16,15,30,15,0,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+29,100,0,0,0,40,3,false,Shotgun
+56,29,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+47,100,0,30,0,15,3,false,Pistol
+60,47,30,30,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+47,100,0,30,0,55,3,false,Rifle
+53,47,30,30,55,15,0,false,FIREBALL
+7,53,30,45,15,95,0,false,Ice Barrier
+2,7,45,60,95,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+37,100,0,0,0,40,3,false,Rifle
+46,37,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+57,100,0,30,0,15,3,false,Ice Barrier
+69,57,30,30,15,55,0,false,Rifle
+19,69,30,45,55,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,FIREBALL
+20,100,45,0,15,40,1,false,Rifle
+46,20,0,45,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+59,100,0,0,0,40,3,false,Take Cover
+64,59,0,15,40,40,0,false,Rifle
+22,64,15,30,40,55,0,false,Ice Barrier
+18,22,30,45,55,55,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+44,100,0,0,0,40,3,false,Take Cover
+66,44,0,15,40,0,0,false,Take Cover
+44,66,15,45,0,55,1,false,FIREBALL
+11,44,45,30,55,40,1,false,FIREBALL
+9,11,30,60,40,95,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+54,100,0,15,0,40,3,false,Pistol
+70,54,15,0,40,0,0,false,Ice Barrier
+32,70,0,45,0,55,1,false,Pistol
+30,32,45,0,55,0,1,false,Shotgun
+3,30,0,75,0,70,1,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+43,100,0,0,0,40,3,false,Shotgun
+43,43,0,30,40,15,0,false,Ice Barrier
+8,43,30,30,15,95,0,false,Ice Barrier
+22,8,30,60,95,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+32,100,0,0,0,40,3,false,FIREBALL
+20,32,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Ice Barrier
+77,100,45,45,15,15,1,false,Rifle
+37,77,45,45,15,55,0,false,Take Cover
+42,37,45,60,55,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+16,100,0,0,0,40,3,false,Pistol
+57,16,0,15,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+81,100,0,45,0,15,3,false,Ice Barrier
+81,81,45,45,15,15,0,false,FIREBALL
+14,81,45,45,15,55,0,false,Shotgun
+25,14,45,60,55,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+41,100,0,0,0,40,3,false,Ice Barrier
+60,41,0,30,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+80,100,0,30,0,15,3,false,Rifle
+78,80,30,15,15,0,1,false,Shotgun
+33,78,15,60,0,30,1,false,Pistol
+60,33,60,60,30,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+47,100,0,15,0,40,3,false,FIREBALL
+42,47,15,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,0,3,false,Rifle
+39,63,15,0,0,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Rifle
+77,100,45,15,15,0,1,false,Shotgun
+23,77,15,45,0,55,1,false,Take Cover
+54,23,45,30,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+22,100,0,0,0,40,3,false,Ice Barrier
+87,22,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+43,100,0,0,0,40,3,false,Shotgun
+62,43,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+68,100,0,15,0,40,3,false,Ice Barrier
+77,68,15,45,40,15,0,false,Rifle
+21,77,45,30,15,40,0,false,Pistol
+60,21,30,90,40,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+52,100,0,15,0,40,3,false,Shotgun
+32,52,15,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+25,100,0,0,0,40,3,false,Pistol
+40,25,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+43,100,0,0,0,0,3,false,Ice Barrier
+58,43,0,30,0,15,1,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Shotgun
+42,100,45,0,15,0,1,false,Rifle
+44,42,0,60,0,15,0,false,Ice Barrier
+7,44,60,30,15,55,0,false,Take Cover
+25,7,30,105,55,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+63,100,0,0,0,0,3,false,Pistol
+76,63,0,30,0,15,1,false,Shotgun
+48,76,30,30,15,15,1,false,Ice Barrier
+43,48,30,75,15,30,1,false,Ice Barrier
+10,43,75,60,30,30,0,false,Rifle
+20,10,60,90,30,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+58,100,0,30,0,15,3,false,Shotgun
+65,58,30,30,15,15,0,false,Rifle
+19,65,30,30,15,15,0,false,FIREBALL
+5,19,30,30,15,55,1,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+49,100,0,0,0,40,3,false,Shotgun
+61,49,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+43,100,0,0,0,40,3,false,Ice Barrier
+61,43,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+20,100,0,0,0,40,3,false,Take Cover
+60,20,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+42,100,0,0,0,40,3,false,Shotgun
+87,42,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+52,100,0,0,0,40,3,false,Shotgun
+54,52,0,15,40,0,0,false,Take Cover
+9,54,15,15,0,40,0,false,Take Cover
+8,9,15,30,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+48,100,0,15,0,0,3,false,Take Cover
+65,48,15,15,0,40,0,false,Take Cover
+31,65,15,60,40,15,0,false,Rifle
+41,31,60,60,15,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+42,100,0,30,0,55,3,false,Shotgun
+34,42,30,0,55,40,0,false,Shotgun
+27,34,0,45,40,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+51,100,0,15,0,40,3,false,Ice Barrier
+72,51,15,45,40,15,0,false,Shotgun
+30,72,45,45,15,55,0,false,Pistol
+52,30,45,90,55,30,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+53,100,0,15,0,0,3,false,Take Cover
+56,53,15,15,0,0,0,false,Rifle
+7,56,15,45,0,15,0,false,Rifle
+33,7,45,30,15,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+50,100,0,15,0,0,3,false,Shotgun
+61,50,15,30,0,15,0,false,Take Cover
+19,61,30,30,15,0,0,false,Rifle
+38,19,30,45,0,15,1,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+54,100,0,15,0,40,3,false,Ice Barrier
+87,54,15,45,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+57,100,0,15,0,0,3,false,Rifle
+53,57,15,30,0,15,0,false,Take Cover
+8,53,30,30,15,40,0,false,Shotgun
+19,8,30,60,40,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+45,100,0,0,0,40,3,false,Take Cover
+81,45,0,45,40,15,0,false,Ice Barrier
+23,81,45,30,15,55,0,false,FIREBALL
+10,23,30,45,55,55,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+59,100,0,15,0,40,3,false,FIREBALL
+63,59,15,30,40,55,0,false,Shotgun
+9,63,30,30,55,40,0,false,Take Cover
+11,9,30,45,40,95,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+27,100,0,0,0,40,3,false,Take Cover
+62,27,0,15,40,40,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+40,100,0,0,0,40,3,false,Ice Barrier
+100,40,0,45,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Ice Barrier
+57,100,45,30,15,15,1,false,Ice Barrier
+49,57,30,75,15,70,0,false,Rifle
+3,49,75,60,70,30,0,false,Rifle
+14,3,60,75,30,70,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+59,100,0,30,0,55,3,false,Ice Barrier
+79,59,30,45,55,15,0,false,Ice Barrier
+41,79,45,75,15,70,0,false,FIREBALL
+27,41,75,75,70,70,0,false,Rifle
+19,27,75,120,70,85,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+58,100,0,15,0,0,3,false,Shotgun
+69,58,15,30,0,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+43,100,0,0,0,40,3,false,Pistol
+30,43,0,0,40,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+49,100,0,15,0,40,3,false,FIREBALL
+49,49,15,15,40,40,0,false,Rifle
+27,49,15,30,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+60,100,0,30,0,15,3,false,Take Cover
+78,60,30,45,15,15,0,false,Shotgun
+16,78,45,45,15,15,0,false,Take Cover
+56,16,45,90,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+48,100,0,30,0,55,3,false,Shotgun
+83,48,30,45,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+17,100,0,0,0,40,3,false,Rifle
+59,17,0,15,40,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+32,100,0,0,0,0,3,false,Pistol
+78,32,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+59,100,0,15,0,40,3,false,Rifle
+57,59,15,30,40,15,0,false,Shotgun
+29,57,30,30,15,40,0,false,Rifle
+9,29,30,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+59,100,0,30,0,55,3,false,Pistol
+78,59,30,45,55,15,0,false,Pistol
+42,78,45,75,15,70,0,false,Rifle
+21,42,75,45,70,15,0,false,Take Cover
+23,21,45,120,15,85,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,30,0,15,3,false,Pistol
+41,60,30,0,15,40,0,false,Pistol
+9,41,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+84,100,0,45,0,15,3,false,FIREBALL
+42,84,45,30,15,55,0,false,Pistol
+20,42,30,45,55,55,0,false,Shotgun
+16,20,45,60,55,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+43,100,0,0,0,40,3,false,Shotgun
+35,43,0,0,40,0,0,false,FIREBALL
+9,35,0,30,0,95,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+72,100,0,30,0,15,3,false,Rifle
+59,72,30,15,15,0,1,false,Ice Barrier
+17,59,15,60,0,30,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+57,100,0,30,0,55,3,false,Shotgun
+32,57,30,0,55,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+33,100,0,0,0,40,3,false,Take Cover
+77,33,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+69,100,0,30,0,55,3,false,Ice Barrier
+79,69,30,45,55,15,0,false,Shotgun
+48,79,45,45,15,55,0,false,Take Cover
+37,48,45,60,55,15,1,false,Shotgun
+34,37,60,90,15,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+45,100,0,30,0,15,3,false,FIREBALL
+26,45,30,0,15,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+22,100,0,0,0,40,3,false,Rifle
+58,22,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+45,100,0,30,0,55,3,false,Take Cover
+78,45,30,45,55,15,0,false,Shotgun
+35,78,45,75,15,70,0,false,Ice Barrier
+59,35,75,90,70,30,0,false,Pistol
+1,59,90,90,30,70,0,false,Take Cover
+27,1,90,105,70,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,30,0,15,3,false,Rifle
+76,60,30,45,15,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+52,100,0,15,0,40,3,false,Take Cover
+62,52,15,15,40,0,0,false,Rifle
+8,62,15,30,0,40,0,false,FIREBALL
+10,8,30,15,40,40,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+42,100,0,30,0,55,3,false,FIREBALL
+52,42,30,30,55,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+68,100,0,30,0,15,3,false,Shotgun
+47,68,30,15,15,0,1,false,Take Cover
+21,47,15,45,0,15,0,false,Ice Barrier
+31,21,45,60,15,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,45,0,15,3,false,Rifle
+62,100,45,0,15,0,1,false,Shotgun
+54,62,0,60,0,15,1,false,Rifle
+7,54,60,0,15,40,0,false,Take Cover
+13,7,0,75,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+65,100,0,15,0,0,3,false,Pistol
+28,65,15,0,0,40,0,false,Shotgun
+47,28,0,30,40,0,0,false,Shotgun
+18,47,30,30,0,55,1,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,30,0,15,3,false,FIREBALL
+46,53,30,0,15,40,0,false,Pistol
+7,46,0,45,40,15,0,false,Take Cover
+22,7,45,15,15,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+86,100,0,15,0,0,3,false,Rifle
+53,86,15,15,0,0,1,false,Pistol
+21,53,15,15,0,40,0,false,Take Cover
+7,21,15,30,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+56,100,0,30,0,15,3,false,Shotgun
+71,56,30,45,15,15,0,false,Shotgun
+10,71,45,30,15,15,0,false,Ice Barrier
+48,10,30,75,15,30,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+42,100,0,0,0,40,3,false,FIREBALL
+42,42,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+82,100,0,45,0,15,3,false,Pistol
+77,82,45,30,15,15,0,false,Pistol
+57,77,30,90,15,30,1,false,Pistol
+31,57,90,45,30,15,0,false,Take Cover
+34,31,45,135,15,45,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+31,100,0,0,0,0,3,false,Rifle
+40,31,0,0,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+83,100,0,45,0,15,3,false,Shotgun
+50,83,45,0,15,0,0,false,FIREBALL
+33,50,0,75,0,70,1,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+52,100,0,15,0,0,3,false,Pistol
+84,52,15,30,0,15,0,false,Shotgun
+31,84,30,60,15,15,1,false,Shotgun
+25,31,60,30,15,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+42,100,0,0,0,40,3,false,Pistol
+61,42,0,15,40,0,0,false,Take Cover
+42,61,15,45,0,55,0,false,FIREBALL
+27,42,45,30,55,40,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+26,100,0,0,0,40,3,false,Pistol
+56,26,0,30,40,15,0,false,Shotgun
+4,56,30,15,15,40,0,false,Ice Barrier
+24,4,15,60,40,70,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+61,100,0,15,0,40,3,false,Shotgun
+47,61,15,0,40,40,0,false,Shotgun
+18,47,0,30,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+60,100,0,0,0,0,3,false,Ice Barrier
+78,60,0,30,0,15,1,false,Shotgun
+22,78,30,15,15,0,1,false,Ice Barrier
+38,22,15,60,0,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+77,100,0,45,0,15,3,false,Shotgun
+62,77,45,15,15,0,0,false,Shotgun
+34,62,15,60,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+27,100,0,0,0,0,3,false,Pistol
+44,27,0,0,0,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+28,100,0,0,0,40,3,false,Take Cover
+72,28,0,15,40,0,0,false,Ice Barrier
+5,72,15,45,0,55,1,false,Take Cover
+29,5,45,30,55,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+46,100,0,0,0,40,3,false,Shotgun
+66,46,0,0,40,0,0,false,Pistol
+13,66,0,15,0,40,1,false,Ice Barrier
+44,13,15,45,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+51,100,0,30,0,55,3,false,Rifle
+78,51,30,45,55,15,0,false,Ice Barrier
+13,78,45,60,15,110,0,false,Take Cover
+55,13,0,0,0,0,3,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+68,100,0,30,0,55,3,false,Shotgun
+67,68,30,15,55,0,0,false,Pistol
+44,67,15,75,0,70,0,false,Take Cover
+18,44,75,30,70,0,0,false,Take Cover
+26,18,30,120,0,85,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+38,100,0,0,0,40,3,false,Shotgun
+39,38,0,0,40,0,0,false,Take Cover
+7,39,0,15,0,80,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,0,0,0,3,false,Take Cover
+59,53,0,15,0,0,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+69,100,0,30,0,55,3,false,Rifle
+77,69,30,30,55,15,0,false,Take Cover
+55,77,30,75,15,70,1,false,Ice Barrier
+47,55,75,60,70,30,0,false,Take Cover
+33,47,60,120,30,85,1,false,Shotgun
+7,33,120,90,85,45,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,45,0,15,3,false,Ice Barrier
+60,100,45,30,15,55,1,false,FIREBALL
+33,60,30,45,55,55,0,false,FIREBALL
+4,33,45,30,55,95,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+76,100,0,45,0,15,3,false,Ice Barrier
+52,76,45,30,15,15,0,false,FIREBALL
+30,52,30,60,15,55,0,false,Shotgun
+25,30,60,75,55,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+73,100,0,45,0,15,3,false,FIREBALL
+42,73,45,30,15,55,0,false,Rifle
+6,42,30,45,55,55,0,false,Shotgun
+20,6,45,75,55,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+82,100,0,45,0,15,3,false,Rifle
+54,82,45,30,15,15,0,false,Pistol
+3,54,30,45,15,55,0,false,Pistol
+5,3,45,60,55,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+54,100,0,0,0,40,3,false,Pistol
+83,54,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+62,100,0,15,0,0,3,false,FIREBALL
+47,62,15,30,0,55,0,false,Ice Barrier
+31,47,30,60,55,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+77,100,0,15,0,0,3,false,Shotgun
+47,77,15,30,0,15,1,false,Rifle
+31,47,30,15,15,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+32,100,0,0,0,40,3,false,FIREBALL
+53,32,0,30,40,55,0,false,Pistol
+11,53,30,30,55,55,0,false,Pistol
+4,11,30,60,55,70,1,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Shotgun
+47,100,45,30,15,15,1,false,Pistol
+31,47,30,45,15,55,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+20,100,0,0,0,40,3,false,FIREBALL
+43,20,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,Rifle
+77,26,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+29,100,0,0,0,40,3,false,Shotgun
+36,29,0,0,40,40,0,false,Ice Barrier
+29,36,0,45,40,55,0,false,Ice Barrier
+11,29,45,45,55,55,1,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+22,100,0,0,0,40,3,false,Ice Barrier
+100,22,0,45,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+59,100,0,30,0,15,3,false,Shotgun
+21,59,30,0,15,40,0,false,Ice Barrier
+37,21,0,75,40,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+57,100,0,30,0,15,3,false,FIREBALL
+63,57,30,15,15,40,0,false,Take Cover
+17,63,15,45,40,55,0,false,Pistol
+3,17,45,15,55,80,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Shotgun
+34,78,45,0,15,0,0,false,Take Cover
+78,34,0,90,0,30,0,false,Ice Barrier
+2,78,90,45,30,15,1,false,Pistol
+38,2,45,105,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+60,100,0,30,0,15,3,false,Take Cover
+77,60,30,45,15,15,0,false,Ice Barrier
+18,77,45,60,15,30,0,false,Take Cover
+77,18,60,90,30,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+39,100,0,0,0,40,3,false,Pistol
+49,39,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,45,0,15,3,false,Take Cover
+77,100,45,45,15,15,1,false,FIREBALL
+54,77,45,75,15,70,0,false,Take Cover
+48,54,75,60,70,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+39,100,0,0,0,40,3,false,Ice Barrier
+61,39,0,30,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+44,100,0,15,0,0,3,false,Rifle
+31,44,15,0,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+43,100,0,15,0,40,3,false,Rifle
+44,43,15,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+46,100,0,0,0,40,3,false,Rifle
+23,46,0,0,40,40,0,false,Pistol
+13,23,0,15,40,40,0,false,Rifle
+1,13,15,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+58,100,0,15,0,40,3,false,Rifle
+78,58,15,45,40,15,0,false,Ice Barrier
+8,78,45,45,15,95,0,false,Pistol
+38,8,45,60,95,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,15,0,0,3,false,Pistol
+31,78,15,0,0,0,1,false,Take Cover
+54,31,0,60,0,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+43,100,0,0,0,0,3,false,Shotgun
+67,43,0,30,0,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+9,100,0,0,0,40,3,false,FIREBALL
+35,9,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+41,100,0,0,0,40,3,false,Pistol
+82,41,0,45,40,15,0,false,Take Cover
+18,82,45,45,15,55,0,false,FIREBALL
+24,18,45,45,55,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Rifle
+78,78,45,45,15,15,0,false,Pistol
+55,78,45,60,15,15,0,false,FIREBALL
+42,55,60,60,15,55,1,false,Ice Barrier
+33,42,60,105,55,30,0,false,Ice Barrier
+42,33,105,105,30,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+47,100,0,15,0,40,3,false,Take Cover
+55,47,15,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+55,100,0,30,0,15,3,false,Rifle
+54,55,30,0,15,0,0,false,Take Cover
+35,54,0,75,0,30,1,false,Rifle
+31,35,75,45,30,15,0,false,Take Cover
+4,31,45,90,15,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,0,0,0,3,false,Take Cover
+77,60,0,45,0,15,1,false,FIREBALL
+17,77,45,30,15,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+23,100,0,0,0,0,3,false,Take Cover
+50,23,0,15,0,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+53,100,0,30,0,15,3,false,Shotgun
+31,53,30,0,15,40,0,false,Ice Barrier
+12,31,0,60,40,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+55,100,0,15,0,0,3,false,Rifle
+76,55,15,45,0,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+49,100,0,0,0,0,3,false,Pistol
+33,49,0,0,0,0,1,false,Ice Barrier
+9,33,0,30,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+46,100,0,0,0,40,3,false,Take Cover
+46,46,0,15,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+21,100,0,0,0,40,3,false,Pistol
+45,21,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+69,100,0,15,0,40,3,false,Rifle
+52,69,15,15,40,0,0,false,Pistol
+15,52,15,30,0,40,0,false,Ice Barrier
+52,15,30,60,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+56,100,0,15,0,0,3,false,Take Cover
+78,56,15,45,0,15,0,false,Rifle
+34,78,45,60,15,15,0,false,Rifle
+55,34,60,90,15,30,0,false,Shotgun
+3,55,90,105,30,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+51,100,0,30,0,55,3,false,Take Cover
+85,51,30,15,55,0,0,false,Ice Barrier
+9,85,15,60,0,110,1,false,FIREBALL
+44,9,0,0,0,0,3,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+27,100,0,0,0,40,3,false,Rifle
+58,27,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+51,100,0,15,0,40,3,false,FIREBALL
+70,51,15,15,40,40,0,false,Rifle
+8,70,15,45,40,55,0,false,Shotgun
+35,8,45,30,55,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+67,100,0,30,0,55,3,false,Take Cover
+67,67,30,45,55,15,0,false,Pistol
+25,67,45,60,15,70,0,false,Shotgun
+17,25,60,45,70,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+43,100,0,30,0,55,3,false,Shotgun
+89,43,30,15,55,0,0,false,Ice Barrier
+27,89,15,75,0,70,1,false,Take Cover
+59,27,75,30,70,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+67,100,0,15,0,0,3,false,Take Cover
+41,67,15,15,0,40,0,false,Shotgun
+18,41,15,45,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+49,100,0,15,0,40,3,false,Rifle
+76,49,15,45,40,15,0,false,Shotgun
+39,76,45,60,15,55,0,false,FIREBALL
+36,39,60,75,55,70,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+58,100,0,30,0,55,3,false,Take Cover
+57,58,30,15,55,0,0,false,Shotgun
+12,57,15,30,0,95,0,false,Take Cover
+21,12,30,30,95,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+32,100,0,0,0,40,3,false,Rifle
+61,32,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,Ice Barrier
+57,78,15,30,0,15,1,false,Pistol
+36,57,30,30,15,0,0,false,Pistol
+17,36,30,60,0,30,0,false,Ice Barrier
+17,17,60,60,30,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+30,100,0,0,0,40,3,false,Ice Barrier
+100,30,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+60,100,0,15,0,40,3,false,Ice Barrier
+73,60,15,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+65,100,0,30,0,15,3,false,Pistol
+82,65,30,30,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Shotgun
+28,100,45,0,15,40,1,false,Pistol
+56,28,0,75,40,30,0,false,Shotgun
+15,56,75,45,30,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+49,100,0,30,0,55,3,false,Rifle
+51,49,30,0,55,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+76,100,0,30,0,15,3,false,Shotgun
+64,76,30,30,15,15,1,false,Pistol
+8,64,30,30,15,55,0,false,FIREBALL
+25,8,30,60,55,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+79,100,0,15,0,0,3,false,FIREBALL
+44,79,15,0,0,40,1,false,Take Cover
+57,44,0,30,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+78,100,0,15,0,0,3,false,Ice Barrier
+58,78,15,30,0,15,1,false,Rifle
+30,58,30,45,15,15,0,false,Ice Barrier
+30,30,45,75,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+42,100,0,15,0,0,3,false,Rifle
+55,42,15,15,0,0,0,false,Take Cover
+8,55,15,30,0,0,0,false,Take Cover
+32,8,30,60,0,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+43,100,0,30,0,55,3,false,Rifle
+46,43,30,0,55,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+49,100,0,15,0,0,3,false,Take Cover
+90,49,15,15,0,0,0,false,Take Cover
+26,90,15,60,0,15,1,false,Take Cover
+46,26,60,30,15,0,0,false,Shotgun
+6,46,30,90,0,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+70,100,0,30,0,15,3,false,Rifle
+77,70,30,15,15,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+51,100,0,15,0,0,3,false,Rifle
+61,51,15,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+66,100,0,0,0,0,3,false,Rifle
+55,66,0,30,0,15,1,false,Pistol
+50,55,30,45,15,15,0,false,Shotgun
+11,50,45,45,15,15,0,false,Shotgun
+1,11,45,60,15,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+60,100,0,15,0,40,3,false,Rifle
+51,60,15,30,40,15,0,false,FIREBALL
+12,51,30,15,15,80,0,false,Ice Barrier
+2,12,15,60,80,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+34,100,0,0,0,40,3,false,Rifle
+77,34,0,30,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,40,3,false,FIREBALL
+34,53,15,0,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+30,100,0,0,0,40,3,false,Rifle
+78,30,0,45,40,15,0,false,Rifle
+8,78,45,45,15,55,0,false,Take Cover
+61,8,45,90,55,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+41,100,0,15,0,40,3,false,FIREBALL
+27,41,15,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Take Cover
+82,100,45,45,15,15,1,false,Shotgun
+60,82,45,60,15,15,0,false,Ice Barrier
+64,60,60,75,15,30,0,false,Take Cover
+19,64,75,75,30,55,1,false,Pistol
+22,19,75,105,55,45,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+36,100,0,0,0,0,3,false,Take Cover
+67,36,0,15,0,40,0,false,Pistol
+4,67,15,15,40,0,0,false,FIREBALL
+16,4,15,15,0,80,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+63,100,0,0,0,0,3,false,Shotgun
+29,63,0,0,0,40,1,false,Take Cover
+41,29,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+41,100,0,15,0,40,3,false,FIREBALL
+37,41,15,0,40,40,0,false,Rifle
+9,37,0,30,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+23,100,0,0,0,40,3,false,Shotgun
+42,23,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+58,100,0,15,0,0,3,false,Take Cover
+68,58,15,15,0,0,0,false,Ice Barrier
+36,68,15,60,0,15,0,false,Take Cover
+51,36,60,30,15,0,0,false,Ice Barrier
+18,51,30,105,0,30,1,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+55,100,0,30,0,15,3,false,FIREBALL
+27,55,30,0,15,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+54,100,0,0,0,0,3,false,FIREBALL
+34,54,0,0,0,40,1,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+77,100,0,15,0,0,3,false,Ice Barrier
+53,77,15,30,0,15,1,false,Ice Barrier
+65,53,30,60,15,15,0,false,Ice Barrier
+29,65,60,75,15,30,0,false,Take Cover
+32,29,75,75,30,15,0,false,Ice Barrier
+6,32,75,120,15,45,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+38,100,0,0,0,0,3,false,Take Cover
+58,38,0,15,0,40,0,false,Rifle
+15,58,15,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+63,100,0,30,0,55,3,false,Take Cover
+76,63,30,45,55,15,0,false,Shotgun
+14,76,45,30,15,95,0,false,Pistol
+23,14,30,45,95,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+76,100,0,30,0,15,3,false,Pistol
+66,76,30,30,15,15,1,false,FIREBALL
+21,66,30,45,15,55,0,false,Take Cover
+42,21,45,75,55,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+34,100,0,0,0,40,3,false,Pistol
+32,34,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+34,100,0,0,0,40,3,false,Rifle
+56,34,0,0,40,0,0,false,Ice Barrier
+11,56,0,30,0,55,1,false,Take Cover
+33,11,30,45,55,15,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+56,100,0,15,0,0,3,false,Shotgun
+56,56,15,30,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+46,100,0,0,0,0,3,false,Rifle
+28,46,0,0,0,0,0,false,Take Cover
+5,28,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+58,100,0,15,0,40,3,false,Rifle
+18,58,15,0,40,40,0,false,Shotgun
+4,18,0,30,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+84,100,0,45,0,15,3,false,Take Cover
+42,84,45,15,15,40,0,false,Take Cover
+61,42,15,90,40,30,0,false,Take Cover
+20,61,90,60,30,55,0,false,Shotgun
+2,20,60,90,55,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+44,100,0,0,0,40,3,false,Pistol
+57,44,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+69,100,0,30,0,55,3,false,Shotgun
+60,69,30,30,55,15,0,false,Take Cover
+47,60,30,75,15,70,0,false,Take Cover
+15,47,75,45,70,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+88,100,0,45,0,15,3,false,Ice Barrier
+76,88,45,45,15,15,0,false,Shotgun
+60,76,45,60,15,15,0,false,Rifle
+34,60,60,60,15,15,1,false,Rifle
+38,34,60,105,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+54,100,0,30,0,15,3,false,Take Cover
+78,54,30,15,15,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+82,100,0,45,0,15,3,false,Shotgun
+17,82,45,0,15,40,0,false,Ice Barrier
+29,17,0,75,40,30,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+24,100,0,0,0,40,3,false,Rifle
+58,24,0,0,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+56,100,0,30,0,15,3,false,Rifle
+33,56,30,0,15,0,0,false,Take Cover
+21,33,0,45,0,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+38,100,0,0,0,0,3,false,Rifle
+59,38,0,15,0,0,0,false,Take Cover
+7,59,15,45,0,15,0,false,Take Cover
+35,7,45,60,15,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+41,100,0,15,0,40,3,false,Pistol
+50,41,15,0,40,40,0,false,Ice Barrier
+2,50,0,45,40,55,0,false,FIREBALL
+20,2,45,30,55,95,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+43,100,0,30,0,55,3,false,Take Cover
+70,43,30,15,55,0,0,false,Ice Barrier
+19,70,15,60,0,70,1,false,Take Cover
+25,19,60,30,70,0,1,false,Take Cover
+5,25,30,105,0,85,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+66,100,0,30,0,15,3,false,Take Cover
+49,66,30,15,15,0,0,false,Shotgun
+19,49,15,30,0,15,0,false,Ice Barrier
+27,19,30,60,15,15,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+29,100,0,0,0,40,3,false,Take Cover
+57,29,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+53,100,0,30,0,15,3,false,Shotgun
+64,53,30,30,15,15,0,false,Take Cover
+16,64,30,45,15,15,0,false,FIREBALL
+7,16,45,30,15,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+23,100,0,0,0,40,3,false,Rifle
+65,23,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+25,100,0,0,0,40,3,false,Take Cover
+100,25,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+29,100,0,0,0,40,3,false,Rifle
+20,29,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+26,100,0,0,0,40,3,false,Ice Barrier
+59,26,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+77,100,0,15,0,0,3,false,Pistol
+44,77,15,0,0,40,1,false,FIREBALL
+20,44,0,15,40,40,0,false,Take Cover
+5,20,15,15,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+75,100,0,30,0,15,3,false,Take Cover
+67,75,30,15,15,0,1,false,Shotgun
+48,67,15,75,0,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+44,100,0,30,0,55,3,false,Take Cover
+60,44,30,15,55,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+62,100,0,15,0,0,3,false,Rifle
+26,62,15,0,0,0,0,false,Take Cover
+27,26,0,30,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+33,100,0,0,0,40,3,false,Rifle
+48,33,0,30,40,15,0,false,Shotgun
+5,48,30,30,15,55,0,false,Pistol
+31,5,30,75,55,30,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+64,100,0,30,0,55,3,false,Take Cover
+45,64,30,15,55,40,0,false,Pistol
+7,45,15,60,40,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+61,100,0,30,0,55,3,false,Take Cover
+78,61,30,15,55,0,0,false,Ice Barrier
+47,78,15,75,0,70,1,false,Take Cover
+49,47,75,30,70,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+41,100,0,0,0,40,3,false,Pistol
+61,41,0,30,40,15,0,false,Take Cover
+17,61,30,45,15,55,0,false,Pistol
+5,17,45,30,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+53,100,0,0,0,40,3,false,Rifle
+22,53,0,0,40,40,0,false,Shotgun
+12,22,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+44,100,0,0,0,40,3,false,Take Cover
+48,44,0,15,40,40,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+41,100,0,30,0,55,3,false,Pistol
+52,41,30,30,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Rifle
+58,78,45,30,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+48,100,0,15,0,0,3,false,Take Cover
+79,48,15,15,0,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+51,100,0,30,0,15,3,false,FIREBALL
+30,51,30,0,15,40,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+29,100,0,0,0,40,3,false,Take Cover
+89,29,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+49,100,0,30,0,55,3,false,FIREBALL
+35,49,30,0,55,40,0,false,Pistol
+2,35,0,60,40,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+56,100,0,15,0,0,3,false,Ice Barrier
+67,56,15,45,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+48,100,0,0,0,40,3,false,Rifle
+78,48,0,30,40,15,0,false,Ice Barrier
+29,78,30,30,15,55,1,false,Ice Barrier
+54,29,30,75,55,30,1,false,Rifle
+7,54,75,75,30,70,0,false,Pistol
+32,7,75,90,70,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,0,0,0,3,false,Rifle
+60,53,0,15,0,0,1,false,Ice Barrier
+17,60,15,30,0,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+21,100,0,0,0,40,3,false,Rifle
+78,21,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+28,100,0,0,0,40,3,false,Take Cover
+65,28,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+54,100,0,15,0,0,3,false,Ice Barrier
+84,54,15,45,0,15,0,false,Ice Barrier
+32,84,45,60,15,15,0,false,Shotgun
+35,32,60,75,15,30,0,false,Rifle
+8,35,75,105,30,30,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+67,100,0,30,0,55,3,false,Rifle
+76,67,30,45,55,15,0,false,Ice Barrier
+11,76,45,60,15,70,0,false,Pistol
+34,11,60,75,70,30,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+59,100,0,15,0,40,3,false,Shotgun
+74,59,15,30,40,15,0,false,Shotgun
+34,74,30,30,15,40,1,false,Shotgun
+30,34,30,60,40,30,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+83,100,0,45,0,15,3,false,Rifle
+61,83,45,15,15,0,0,false,Pistol
+65,61,15,90,0,30,0,false,Pistol
+42,65,90,45,30,15,0,false,Shotgun
+22,42,45,105,15,30,1,false,Ice Barrier
+18,22,105,90,30,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+60,100,0,0,0,0,3,false,Ice Barrier
+76,60,0,45,0,15,1,false,Pistol
+15,76,45,0,15,0,0,false,Pistol
+28,15,0,45,0,15,1,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+26,100,0,0,0,0,3,false,Shotgun
+73,26,0,45,0,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+30,100,0,0,0,40,3,false,Ice Barrier
+80,30,0,45,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+19,100,0,0,0,40,3,false,Pistol
+24,19,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+32,100,0,0,0,40,3,false,Ice Barrier
+51,32,0,30,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+77,100,0,45,0,15,3,false,FIREBALL
+47,77,45,0,15,40,0,false,Rifle
+1,47,0,45,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+77,100,0,45,0,15,3,false,Pistol
+23,77,45,0,15,40,0,false,Ice Barrier
+56,23,0,90,40,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+49,100,0,0,0,40,3,false,Pistol
+49,49,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+62,100,0,30,0,55,3,false,Ice Barrier
+75,62,30,45,55,15,0,false,Shotgun
+16,75,45,30,15,55,0,false,Ice Barrier
+51,16,30,90,55,30,1,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+18,100,0,0,0,40,3,false,Take Cover
+58,18,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+68,100,0,30,0,55,3,false,Rifle
+66,68,30,0,55,0,0,false,Pistol
+16,66,0,30,0,95,1,false,Ice Barrier
+9,16,30,30,95,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+26,100,0,0,0,0,3,false,Shotgun
+66,26,0,45,0,15,0,false,Ice Barrier
+2,66,45,45,15,15,0,false,Ice Barrier
+56,2,45,90,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+55,100,0,30,0,15,3,false,Shotgun
+22,55,30,0,15,0,0,false,FIREBALL
+24,22,0,60,0,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+86,100,0,30,0,15,3,false,Ice Barrier
+43,86,30,30,15,55,1,false,Ice Barrier
+39,43,30,60,55,70,0,false,Ice Barrier
+26,39,60,60,70,70,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,40,3,false,Shotgun
+58,63,15,30,40,15,0,false,FIREBALL
+19,58,30,45,15,95,0,false,Pistol
+13,19,45,60,95,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,30,0,15,3,false,Pistol
+51,78,30,15,15,0,1,false,Ice Barrier
+61,51,15,75,0,30,0,false,Ice Barrier
+7,61,75,45,30,15,0,false,Pistol
+5,7,45,105,15,45,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+42,100,0,0,0,40,3,false,Rifle
+45,42,0,30,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+42,100,0,15,0,40,3,false,Shotgun
+25,42,15,0,40,40,0,false,Ice Barrier
+21,25,0,60,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+63,100,0,30,0,15,3,false,Rifle
+56,63,30,15,15,0,0,false,Take Cover
+40,56,15,75,0,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+46,100,0,0,0,40,3,false,FIREBALL
+61,46,0,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+57,100,0,15,0,0,3,false,Ice Barrier
+81,57,15,30,0,15,0,false,Rifle
+35,81,30,60,15,15,1,false,Ice Barrier
+36,35,60,60,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+61,100,0,30,0,55,3,false,Pistol
+84,61,30,15,55,0,0,false,Take Cover
+19,84,15,45,0,95,1,false,Ice Barrier
+50,19,45,45,95,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+62,100,0,15,0,0,3,false,Ice Barrier
+57,62,15,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+37,100,0,0,0,0,3,false,FIREBALL
+31,37,0,0,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+41,100,0,30,0,15,3,false,Pistol
+55,41,30,15,15,0,0,false,Take Cover
+18,55,15,45,0,15,0,false,Pistol
+9,18,45,45,15,15,1,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+45,100,0,15,0,0,3,false,Rifle
+41,45,15,0,0,0,0,false,Take Cover
+9,41,0,30,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+63,100,0,15,0,40,3,false,Shotgun
+45,63,15,30,40,15,0,false,FIREBALL
+32,45,30,30,15,80,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+63,100,0,15,0,0,3,false,Shotgun
+53,63,15,30,0,15,0,false,Shotgun
+14,53,30,15,15,40,0,false,Ice Barrier
+35,14,15,75,40,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+36,100,0,0,0,40,3,false,Shotgun
+49,36,0,15,40,0,0,false,Ice Barrier
+19,49,15,30,0,55,0,false,FIREBALL
+12,19,30,30,55,40,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+38,100,0,0,0,40,3,false,Rifle
+53,38,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+35,100,0,0,0,40,3,false,Rifle
+55,35,0,0,40,0,0,false,Ice Barrier
+25,55,0,30,0,55,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+47,100,0,0,0,40,3,false,FIREBALL
+41,47,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+26,100,0,0,0,40,3,false,Pistol
+57,26,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,30,0,15,3,false,FIREBALL
+36,53,30,0,15,40,0,false,Take Cover
+13,36,0,45,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+50,100,0,30,0,15,3,false,Shotgun
+57,50,30,15,15,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+77,100,0,45,0,15,3,false,FIREBALL
+45,77,45,0,15,40,0,false,FIREBALL
+43,45,0,60,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+67,100,0,30,0,15,3,false,Take Cover
+47,67,30,15,15,0,0,false,Shotgun
+23,47,15,45,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+39,100,0,0,0,40,3,false,Ice Barrier
+56,39,0,30,40,55,0,false,Take Cover
+22,56,30,15,55,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+55,100,0,30,0,15,3,false,FIREBALL
+46,55,30,0,15,40,0,false,Take Cover
+33,46,0,75,40,30,0,false,Pistol
+21,33,75,45,30,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+57,100,0,15,0,0,3,false,Take Cover
+69,57,15,45,0,15,0,false,Rifle
+13,69,45,30,15,0,0,false,Shotgun
+23,13,30,60,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+41,100,0,0,0,40,3,false,Rifle
+55,41,0,30,40,15,0,false,Ice Barrier
+17,55,30,45,15,55,0,false,Ice Barrier
+5,17,45,60,55,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+54,100,0,15,0,0,3,false,FIREBALL
+69,54,15,30,0,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+18,100,0,0,0,40,3,false,Shotgun
+57,18,0,15,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+64,100,0,30,0,15,3,false,Take Cover
+57,64,30,15,15,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+64,100,0,30,0,15,3,false,Ice Barrier
+100,64,30,45,15,15,0,false,FIREBALL
+27,100,45,60,15,70,1,false,Take Cover
+50,27,60,60,70,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+64,100,0,30,0,55,3,false,Take Cover
+61,64,30,15,55,0,0,false,FIREBALL
+11,61,15,60,0,110,0,false,Shotgun
+8,11,0,0,0,0,3,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,0,0,0,3,false,Take Cover
+79,60,0,45,0,15,1,false,Take Cover
+21,79,45,15,15,40,0,false,Take Cover
+57,21,15,90,40,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+45,100,0,15,0,0,3,false,Rifle
+61,45,15,30,0,15,0,false,Shotgun
+9,61,30,30,15,0,0,false,Shotgun
+21,9,30,30,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+56,100,0,30,0,55,3,false,Take Cover
+68,56,30,45,55,15,0,false,Take Cover
+34,68,45,75,15,70,0,false,FIREBALL
+20,34,75,45,70,55,0,false,FIREBALL
+1,20,45,90,55,110,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+47,100,0,15,0,40,3,false,Pistol
+58,47,15,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,30,0,15,3,false,Pistol
+43,78,30,0,15,40,1,false,Rifle
+8,43,0,30,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+76,100,0,45,0,15,3,false,Ice Barrier
+83,76,45,45,15,15,0,false,Pistol
+57,83,45,90,15,30,0,false,Rifle
+24,57,90,45,30,55,0,false,Pistol
+40,24,45,135,55,45,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+46,100,0,30,0,55,3,false,Take Cover
+58,46,30,15,55,0,0,false,Ice Barrier
+24,58,15,60,0,70,0,false,FIREBALL
+8,24,60,15,70,40,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+66,100,0,15,0,0,3,false,Pistol
+83,66,15,30,0,15,0,false,Pistol
+48,83,30,60,15,15,1,false,Take Cover
+58,48,60,75,15,30,0,false,Ice Barrier
+20,58,75,90,30,30,0,false,Shotgun
+8,20,90,75,30,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+57,100,0,30,0,15,3,false,Pistol
+59,57,30,30,15,15,0,false,Rifle
+13,59,30,60,15,30,0,false,Ice Barrier
+12,13,60,60,30,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+67,100,0,30,0,55,3,false,Shotgun
+85,67,30,45,55,15,0,false,FIREBALL
+14,85,45,30,15,95,0,false,FIREBALL
+47,14,30,75,95,70,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+19,100,0,0,0,40,3,false,Pistol
+75,19,0,30,40,15,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+42,100,0,0,0,40,3,false,FIREBALL
+39,42,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Pistol
+38,100,0,0,0,40,3,false,Shotgun
+33,38,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+67,100,0,45,0,15,3,false,Take Cover
+78,67,45,45,15,15,0,false,Pistol
+47,78,45,90,15,30,0,false,Pistol
+53,47,90,90,30,30,0,false,Take Cover
+15,53,90,105,30,30,0,false,Take Cover
+29,15,105,135,30,45,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+34,100,0,0,0,40,3,false,Shotgun
+44,34,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+35,100,0,0,0,40,3,false,Take Cover
+61,35,0,15,40,0,0,false,Ice Barrier
+11,61,15,45,0,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+53,100,0,15,0,40,3,false,Take Cover
+63,53,15,15,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+20,100,0,0,0,40,3,false,Pistol
+36,20,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+55,100,0,30,0,55,3,false,Rifle
+42,55,30,0,55,40,0,false,Take Cover
+40,42,0,75,40,70,0,false,Ice Barrier
+18,40,75,30,70,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+59,100,0,15,0,40,3,false,Ice Barrier
+48,59,15,30,40,55,0,false,Take Cover
+17,48,30,30,55,40,0,false,Rifle
+26,17,30,75,40,70,0,false,Pistol
+100,100,0,0,0,0,3,false,Shotgun
+52,100,0,0,0,0,3,false,Shotgun
+48,52,0,30,0,15,1,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+54,100,0,15,0,40,3,false,Pistol
+79,54,15,45,40,15,0,false,Shotgun
+21,79,45,15,15,40,0,false,Take Cover
+50,21,15,90,40,30,1,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+39,100,0,0,0,40,3,false,Take Cover
+81,39,0,45,40,15,0,false,Pistol
+23,81,45,45,15,55,0,false,Take Cover
+57,23,45,90,55,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+25,100,0,0,0,0,3,false,Pistol
+56,25,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+40,100,0,0,0,40,3,false,FIREBALL
+39,40,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+31,100,0,0,0,40,3,false,Take Cover
+75,31,0,45,40,15,0,false,Ice Barrier
+9,75,45,30,15,55,0,false,FIREBALL
+38,9,30,75,55,70,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+77,100,0,45,0,15,3,false,Take Cover
+60,77,45,15,15,0,0,false,Ice Barrier
+53,60,15,90,0,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+35,100,0,0,0,0,3,false,Take Cover
+78,35,0,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+55,100,0,15,0,0,3,false,Take Cover
+61,55,15,15,0,40,0,false,Ice Barrier
+31,61,15,60,40,15,0,false,Rifle
+23,31,60,15,15,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+45,100,0,15,0,40,3,false,Take Cover
+62,45,15,15,40,0,0,false,Rifle
+2,62,15,30,0,40,0,false,Take Cover
+31,2,30,30,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+44,100,0,15,0,0,3,false,Shotgun
+57,44,15,30,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+66,100,0,15,0,40,3,false,Rifle
+63,66,15,30,40,15,0,false,Pistol
+21,63,30,30,15,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+70,100,0,30,0,55,3,false,Ice Barrier
+89,70,30,30,55,15,0,false,FIREBALL
+18,89,30,30,15,95,1,false,Shotgun
+74,18,30,75,95,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+24,100,0,0,0,40,3,false,Rifle
+49,24,0,15,40,0,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+65,100,0,30,0,15,3,false,Pistol
+65,65,30,30,15,15,0,false,Take Cover
+32,65,30,75,15,30,0,false,Ice Barrier
+16,32,75,60,30,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+43,100,0,0,0,40,3,false,Rifle
+53,43,0,30,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+85,100,0,45,0,15,3,false,Shotgun
+49,85,45,15,15,0,0,false,Pistol
+33,49,15,75,0,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,45,0,15,3,false,Pistol
+59,78,45,30,15,15,0,false,Shotgun
+22,59,30,75,15,30,0,false,Ice Barrier
+15,22,75,60,30,30,0,false,Pistol
+100,100,0,0,0,0,3,false,FIREBALL
+35,100,0,0,0,40,3,false,Take Cover
+79,35,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+77,100,0,15,0,0,3,false,Ice Barrier
+77,77,15,30,0,15,1,false,Rifle
+32,77,30,45,15,15,1,false,FIREBALL
+39,32,45,60,15,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+84,100,0,45,0,15,3,false,Shotgun
+78,84,45,15,15,0,0,false,Ice Barrier
+71,78,15,90,0,30,1,false,Take Cover
+40,71,90,30,30,0,0,false,Ice Barrier
+39,40,30,135,0,45,0,false,Take Cover
+16,39,135,75,45,15,0,false,Pistol
+7,16,75,150,15,45,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+59,100,0,15,0,0,3,false,FIREBALL
+43,59,15,0,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+45,100,0,0,0,40,3,false,Rifle
+59,45,0,0,40,0,0,false,Shotgun
+22,59,0,45,0,55,1,false,Pistol
+39,22,45,45,55,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+48,100,0,0,0,40,3,false,Pistol
+77,48,0,45,40,15,0,false,Shotgun
+7,77,45,15,15,40,0,false,FIREBALL
+40,7,15,60,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+60,100,0,15,0,0,3,false,FIREBALL
+66,60,15,30,0,55,0,false,FIREBALL
+18,66,30,30,55,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+41,100,0,15,0,40,3,false,Rifle
+43,41,15,0,40,40,0,false,Rifle
+18,43,0,60,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,45,0,15,3,false,Shotgun
+61,100,45,30,15,15,1,false,Take Cover
+76,61,30,90,15,30,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+52,100,0,15,0,0,3,false,Ice Barrier
+57,52,15,30,0,15,0,false,Take Cover
+28,57,30,60,15,15,0,false,Ice Barrier
+23,28,60,60,15,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Take Cover
+76,100,0,45,0,15,3,false,FIREBALL
+42,76,45,0,15,40,0,false,FIREBALL
+19,42,0,45,40,55,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+62,100,0,30,0,55,3,false,Take Cover
+80,62,30,45,55,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+58,100,0,30,0,55,3,false,Take Cover
+75,58,30,45,55,15,0,false,Pistol
+8,75,45,30,15,95,0,false,Ice Barrier
+41,8,30,75,95,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,15,0,0,3,false,Take Cover
+72,78,15,45,0,15,1,false,Rifle
+41,72,45,30,15,0,0,false,Ice Barrier
+72,41,30,90,0,30,0,false,Pistol
+9,72,90,60,30,15,1,false,Ice Barrier
+52,9,60,135,15,45,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+48,100,0,15,0,40,3,false,Shotgun
+65,48,15,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+63,100,0,30,0,55,3,false,Shotgun
+78,63,30,45,55,15,0,false,Take Cover
+12,78,45,45,15,95,0,false,Take Cover
+49,12,45,90,95,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+52,100,0,0,0,0,3,false,Ice Barrier
+45,52,0,30,0,55,1,false,FIREBALL
+12,45,30,15,55,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+62,100,0,30,0,55,3,false,Take Cover
+79,62,30,45,55,15,0,false,Ice Barrier
+32,79,45,60,15,110,0,false,Pistol
+100,100,0,0,0,0,3,false,Ice Barrier
+78,100,0,45,0,15,3,false,Ice Barrier
+48,78,45,30,15,55,0,false,Take Cover
+65,48,30,60,55,15,0,false,Shotgun
+3,65,60,60,15,70,1,false,Shotgun
+17,3,60,75,70,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+50,100,0,15,0,0,3,false,Rifle
+56,50,15,30,0,15,0,false,Shotgun
+32,56,30,30,15,0,0,false,Pistol
+8,32,30,60,0,30,1,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+39,100,0,0,0,40,3,false,Ice Barrier
+56,39,0,30,40,15,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+35,100,0,0,0,40,3,false,Take Cover
+78,35,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+54,100,0,0,0,0,3,false,Pistol
+83,54,0,45,0,15,1,false,Shotgun
+18,83,45,15,15,0,0,false,Take Cover
+66,18,15,90,0,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+44,100,0,0,0,0,3,false,FIREBALL
+43,44,0,0,0,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+82,100,0,45,0,15,3,false,Take Cover
+100,82,45,45,15,15,0,false,FIREBALL
+8,100,45,45,15,55,1,false,Shotgun
+61,8,45,60,55,15,0,false,Rifle
+100,100,0,0,0,0,3,false,FIREBALL
+46,100,0,0,0,40,3,false,FIREBALL
+58,46,0,30,40,55,0,false,Shotgun
+2,58,30,30,55,55,0,false,Shotgun
+13,2,30,30,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,Take Cover
+43,100,0,15,0,0,3,false,Shotgun
+54,43,15,15,0,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+56,100,0,30,0,55,3,false,Ice Barrier
+100,56,30,45,55,15,0,false,Rifle
+9,100,45,45,15,55,1,false,Take Cover
+100,9,45,90,55,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Pistol
+35,100,0,0,0,0,3,false,Rifle
+28,35,0,0,0,40,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+79,100,0,45,0,15,3,false,Ice Barrier
+81,79,45,45,15,15,0,false,Take Cover
+57,81,45,90,15,30,0,false,Take Cover
+29,57,90,60,30,15,0,false,Take Cover
+34,29,60,135,15,45,0,false,Shotgun
+100,100,0,0,0,0,3,false,Rifle
+20,100,0,0,0,40,3,false,Take Cover
+81,20,0,15,40,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+56,100,0,15,0,0,3,false,Pistol
+76,56,15,45,0,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+41,100,0,0,0,40,3,false,Pistol
+66,41,0,30,40,15,0,false,Shotgun
+3,66,30,30,15,55,0,false,Take Cover
+41,3,30,75,55,30,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+54,100,0,30,0,55,3,false,Pistol
+27,54,30,0,55,40,0,false,Take Cover
+6,27,0,45,40,95,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+46,100,0,0,0,0,3,false,Take Cover
+88,46,0,45,0,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+54,100,0,30,0,15,3,false,Rifle
+60,54,30,15,15,0,0,false,Shotgun
+11,60,15,60,0,30,0,false,Rifle
+7,11,60,30,30,0,0,false,Pistol
+100,100,0,0,0,0,3,false,Pistol
+32,100,0,0,0,0,3,false,Take Cover
+55,32,0,15,0,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Take Cover
+64,100,0,15,0,40,3,false,Shotgun
+43,64,15,0,40,0,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+37,100,0,0,0,40,3,false,Take Cover
+100,37,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+60,100,0,30,0,55,3,false,Rifle
+58,60,30,0,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+61,100,0,30,0,15,3,false,Take Cover
+53,61,30,15,15,0,0,false,Take Cover
+22,53,15,45,0,15,0,false,Ice Barrier
+13,22,45,45,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+69,100,0,30,0,55,3,false,Rifle
+78,69,30,45,55,15,0,false,Rifle
+16,78,45,30,15,95,0,false,Ice Barrier
+60,16,30,90,95,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+74,100,0,45,0,15,3,false,Ice Barrier
+73,74,45,45,15,15,0,false,Take Cover
+48,73,45,90,15,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+100,100,0,45,0,15,3,false,Take Cover
+77,100,45,45,15,15,1,false,Rifle
+61,77,45,75,15,30,0,false,FIREBALL
+43,61,75,75,30,70,0,false,Take Cover
+44,43,75,120,70,45,0,false,Ice Barrier
+19,44,120,105,45,85,0,false,Take Cover
+5,19,105,135,85,85,1,false,FIREBALL
+100,100,0,0,0,0,3,false,Shotgun
+27,100,0,0,0,40,3,false,Rifle
+78,27,0,45,40,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Ice Barrier
+64,100,0,30,0,55,3,false,Pistol
+22,64,30,0,55,0,0,false,Rifle
+29,22,0,60,0,70,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+84,100,0,45,0,15,3,false,Rifle
+53,84,45,15,15,0,0,false,Take Cover
+60,53,15,90,0,30,0,false,Ice Barrier
+29,60,90,60,30,15,0,false,Ice Barrier
+36,29,60,120,15,45,0,false,Rifle
+7,36,120,105,45,30,1,false,Rifle
+14,7,105,165,30,60,0,false,Rifle
+100,100,0,0,0,0,3,false,Ice Barrier
+90,100,0,30,0,15,3,false,Shotgun
+59,90,30,30,15,15,1,false,Ice Barrier
+48,59,30,60,15,30,0,false,Ice Barrier
+24,48,60,60,30,30,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+49,100,0,0,0,40,3,false,FIREBALL
+56,49,0,15,40,40,0,false,Shotgun
+23,56,15,45,40,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+47,100,0,0,0,40,3,false,Rifle
+30,47,0,0,40,40,0,false,Take Cover
+2,30,0,15,40,80,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+26,100,0,0,0,40,3,false,Pistol
+57,26,0,30,40,15,0,false,Rifle
+100,100,0,0,0,0,3,false,Shotgun
+49,100,0,0,0,40,3,false,Pistol
+48,49,0,0,40,40,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+46,100,0,30,0,15,3,false,Take Cover
+76,46,30,45,15,15,0,false,Ice Barrier
+7,76,45,60,15,30,0,false,Ice Barrier
+17,7,60,75,30,70,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+53,100,0,30,0,15,3,false,Take Cover
+56,53,30,15,15,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Ice Barrier
+60,100,0,30,0,15,3,false,Ice Barrier
+52,60,30,30,15,15,0,false,FIREBALL
+17,52,30,45,15,55,0,false,Pistol
+6,17,45,60,55,30,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+56,100,0,30,0,55,3,false,Ice Barrier
+64,56,30,30,55,55,0,false,Shotgun
+100,100,0,0,0,0,3,false,FIREBALL
+43,100,0,0,0,40,3,false,Rifle
+54,43,0,0,40,0,0,false,Ice Barrier
+22,54,0,30,0,55,1,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+47,100,0,15,0,0,3,false,Ice Barrier
+75,47,15,45,0,15,0,false,Pistol
+100,100,0,0,0,0,3,false,Rifle
+58,100,0,30,0,15,3,false,Pistol
+58,58,30,30,15,15,0,false,FIREBALL
+22,58,30,60,15,70,0,false,Take Cover
+12,22,60,45,70,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,FIREBALL
+15,100,0,0,0,40,3,false,Shotgun
+49,15,0,0,40,40,0,false,Shotgun
+100,100,0,0,0,0,3,false,Shotgun
+44,100,0,0,0,40,3,false,Ice Barrier
+84,44,0,45,40,15,0,false,Take Cover
+44,84,45,45,15,55,0,false,Ice Barrier
+68,44,45,75,55,30,1,false,Ice Barrier
+22,68,75,90,30,70,1,false,Ice Barrier
+44,22,90,120,70,45,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+78,100,0,45,0,15,3,false,Pistol
+58,78,45,15,15,0,0,false,FIREBALL
+35,58,15,60,0,55,0,false,Rifle
+17,35,60,30,55,0,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Pistol
+35,100,0,0,0,40,3,false,Ice Barrier
+84,35,0,45,40,15,0,false,Take Cover
+5,84,45,15,15,80,0,false,FIREBALL
+15,5,15,45,80,55,0,false,Pistol
+100,100,0,0,0,0,3,false,Take Cover
+100,100,0,0,0,0,3,false,Take Cover
+66,100,0,15,0,40,3,false,Ice Barrier
+61,66,15,30,40,55,0,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+50,100,0,30,0,15,3,false,Shotgun
+61,50,30,15,15,0,0,false,Rifle
+4,61,15,45,0,15,0,false,Ice Barrier
+61,4,45,60,15,15,0,false,FIREBALL
+100,100,0,0,0,0,3,false,Rifle
+23,100,0,0,0,40,3,false,Take Cover
 100,100,0,0,0,0,3,false,Lucky
-60,100,0,0,0,0,3,false,Rifle
-78,60,0,0,0,0,1,false,Lucky
-50,78,0,0,0,0,2,false,Rifle
-56,50,0,0,0,0,1,false,Lucky
-40,56,0,0,0,0,2,false,Rifle
-33,40,0,0,0,0,1,false,Lucky
-30,33,0,0,0,0,2,false,Rifle
-10,30,0,0,0,0,1,false,Lucky
-20,10,0,0,0,0,2,false,Rifle
+100,100,0,0,0,0,3,false,Rifle
+37,100,0,0,0,10,3,false,Lucky
+100,100,0,0,0,0,3,false,Lucky

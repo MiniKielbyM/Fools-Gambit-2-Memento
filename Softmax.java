@@ -5,8 +5,8 @@ public class Softmax {
     private static final Random rand = new Random();
 
     public static Action pick(List<Action> actions,
-            Map<Action, Double> scores,
-            double temperature) {
+                              Map<Action, Double> scores,
+                              double temperature) {
 
         double[] probs = new double[actions.size()];
         double sum = 0;
@@ -27,8 +27,7 @@ public class Softmax {
 
         for (int i = 0; i < probs.length; i++) {
             acc += probs[i];
-            if (r <= acc)
-                return actions.get(i);
+            if (r <= acc) return actions.get(i);
         }
 
         return actions.get(actions.size() - 1);

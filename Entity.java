@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Entity {
 
+    private static final Scanner input = new Scanner(System.in);
+
     public ArrayList<Action> deck;
     public ArrayList<Action> hand = new ArrayList<>();
     public ArrayList<Action> discard = new ArrayList<>();
@@ -9,25 +11,24 @@ public class Entity {
     public int hp;
     public int block;
     public int para;
-    public int[] stats = {0, 0, 0, 0, 3};
+    public int[] stats = { 0, 0, 0, 0, 3 };
 
     public boolean isPlayer;
     public Entity target;
 
     public double temperature = 1.0;
 
-    public Decision_Tree_Matrix AI =
-            new Decision_Tree_Matrix(
-                    new Decision_Tree_Training_Data(
-                            "combat_training_actions.csv",
-                            Game_Types.TYPES
-                    )
-            );
+    public Decision_Tree_Matrix AI;
 
     public Entity(int hp, ArrayList<Action> deck, boolean isPlayer) {
         this.hp = hp;
         this.deck = deck;
         this.isPlayer = isPlayer;
+
+        this.AI = new Decision_Tree_Matrix(
+                new Decision_Tree_Training_Data(
+                        "combat_training_actions.csv",
+                        Game_Types.TYPES));
     }
 
     public void setTarget(Entity t) {
@@ -58,39 +59,137 @@ public class Entity {
         stats[4] = 3;
     }
 
+    private Action choosePlayerAction() {
+
+        while (true) {
+
+            System.out.println("\n====================");
+            System.out.println("Your HP: " + hp);
+            System.out.println("Enemy HP: " + target.hp);
+            System.out.println("Block: " + block);
+            System.out.println("Energy: " + stats[4]);
+            System.out.println("====================");
+
+            for (int i = 0; i < hand.size(); i++) {
+
+                Action a = hand.get(i);
+
+                System.out.println(
+                        i + ": "
+                                + a.name
+                                + " | Cost: "
+                                + a.cost
+                                + " | "
+                                + a.desc);
+            }
+
+            System.out.print("\nChoose card: ");
+
+            if (!input.hasNextInt()) {
+                input.nextLine();
+                System.out.println("Invalid input.");
+                continue;
+            }
+
+            int choice = input.nextInt();
+            input.nextLine();
+
+            if (choice < 0 || choice >= hand.size()) {
+                System.out.println("Invalid card.");
+                continue;
+            }
+
+            Action selected = hand.get(choice);
+
+            if (selected.cost > stats[4]) {
+                System.out.println("Not enough energy.");
+                continue;
+            }
+
+            return selected;
+        }
+    }
+
     public Action_Result takeTurn(Turn_Context ctx) {
 
         draw(5);
         stats[4] = 3;
 
-        Action chosen = AI_Selector.choose(this, ctx);
+        Action_Result lastResult = Action_Result.EMPTY;
 
-        if (chosen == null || chosen.cost > stats[4]) {
-            hand.clear();
-            return Action_Result.EMPTY;
+        while (stats[4] > 0 && !hand.isEmpty()) {
+
+            Action chosen;
+
+            if (isPlayer) {
+                chosen = choosePlayerAction();
+            } else {
+                chosen = AI_Selector.choose(this, ctx);
+            }
+
+            if (chosen == null) {
+                break;
+            }
+
+            if (chosen.cost > stats[4]) {
+                if (isPlayer) {
+                    System.out.println("Not enough energy.");
+                    continue;
+                }
+                break;
+            }
+
+            stats[4] -= chosen.cost;
+
+            int[] res = null;
+
+            if (!this.isPlayer) {
+                if (chosen instanceof Lucky l) {
+
+                    boolean keepFlipping = Math.random() < (1.0 / Math.max(0.1, temperature));
+
+                    res = l.Activate(keepFlipping);
+
+                } else {
+
+                    res = chosen.Activate();
+                }
+            } else {
+                if (chosen instanceof Lucky l) {
+                    boolean KeepFlipping = true;
+                    while (KeepFlipping) {
+                        res = l.Activate(false);
+                        System.out.println("Keep Flipping? (Y/N)");
+                        KeepFlipping = input.nextLine().equalsIgnoreCase("y")? true : false;
+                    }
+
+                } else {
+
+                    res = chosen.Activate();
+                }
+            }
+
+            lastResult = Action_Result.from(res, chosen);
+
+            apply(lastResult);
+
+            System.out.println(
+                    (isPlayer ? "Player" : "Enemy")
+                            + " used "
+                            + chosen.name);
+
+            hand.remove(chosen);
+            discard.add(chosen);
+
+            if (target.hp <= 0) {
+                break;
+            }
         }
 
-        stats[4] -= chosen.cost;
-
-        int[] res;
-
-        // Lucky decision injection
-        if (chosen.name.equalsIgnoreCase("Lucky")) {
-            res = chosen.Activate();
-
-        } else {
-            res = chosen.Activate();
-        }
-
-        Action_Result result = Action_Result.from(res, chosen);
-
-        apply(result);
-
-        hand.remove(chosen);
-        discard.add(chosen);
+        discard.addAll(hand);
         hand.clear();
 
-        return result;
+        return lastResult;
     }
 
     private void apply(Action_Result r) {

@@ -2,28 +2,74 @@ import java.util.*;
 
 public class Main {
 
-    static Scanner input = new Scanner(System.in);
+    private static final boolean TRAINING_MODE = false;
+    private static final int TRAINING_BATTLES = 10000;
 
-    static ArrayList<Action> baseDeck = new ArrayList<>(
-            Arrays.asList(
-                    new Lucky(),
-                    Action_List.pistol,
-                    Action_List.shotgun,
-                    Action_List.rifle,
-                    Action_List.cover
-            )
-    );
-
-    static Entity player = new Entity(100, new ArrayList<>(baseDeck), true);
-    static Entity enemy = new Entity(100, new ArrayList<>(baseDeck), false);
+    public static ArrayList<Action> createDeck() {
+        return new ArrayList<>(Arrays.asList(
+                new Lucky(),
+                Action_List.pistol,
+                Action_List.shotgun,
+                Action_List.rifle,
+                Action_List.cover,
+                Action_List.fireball,
+                Action_List.ice_barrier
+        ));
+    }
 
     public static void main(String[] args) {
 
-        player.setTarget(enemy);
-        enemy.setTarget(player);
+        if (TRAINING_MODE) {
+            runTraining();
+        } else {
+            runPlayerGame();
+        }
+    }
 
-        enemy.temperature = 1.2;
-        player.temperature = 1.0;
+    private static void runTraining() {
+
+        System.out.println("Training started...");
+
+        for (int i = 1; i <= TRAINING_BATTLES; i++) {
+
+            Entity ai1 = new Entity(
+                    100,
+                    createDeck(),
+                    false);
+
+            Entity ai2 = new Entity(
+                    100,
+                    createDeck(),
+                    false);
+
+            ai1.temperature = 2.4;
+            ai2.temperature = 2.4;
+
+            Combat_Engine engine = new Combat_Engine(ai1, ai2);
+            engine.run();
+
+            if (i % 100 == 0) {
+                System.out.println(
+                        "Completed " + i + "/" + TRAINING_BATTLES + " battles");
+            }
+        }
+
+        System.out.println("Training complete.");
+    }
+
+    private static void runPlayerGame() {
+
+        Entity player = new Entity(
+                100,
+                createDeck(),
+                true);
+
+        Entity enemy = new Entity(
+                100,
+                createDeck(),
+                false);
+
+        enemy.temperature = 2.4;
 
         Combat_Engine engine = new Combat_Engine(player, enemy);
         engine.run();

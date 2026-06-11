@@ -11,7 +11,7 @@ public class Action_Result {
     public final Type type;
     public final int a;
     public final int b;
-    public final String actionName;
+    public final String name;
 
     public static final Action_Result EMPTY =
             new Action_Result(Type.EMPTY, 0, 0, "none");
@@ -20,11 +20,10 @@ public class Action_Result {
         this.type = type;
         this.a = a;
         this.b = b;
-        this.actionName = name;
+        this.name = name;
     }
 
     public static Action_Result from(int[] res, Action a) {
-
         return new Action_Result(
                 switch (res[0]) {
                     case 1 -> Type.DAMAGE;
