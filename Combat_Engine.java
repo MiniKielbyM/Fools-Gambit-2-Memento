@@ -26,15 +26,16 @@ public class Combat_Engine {
                     && a.para < 100 && b.para < 100) {
 
                 takeTurn(a);
-                if (b.hp <= 0) break;
+                if (b.hp <= 0)
+                    break;
 
                 takeTurn(b);
             }
 
-            if (a.hp <= 0 || b.hp <= 0) break;
+            if (a.hp <= 0 || b.hp <= 0)
+                break;
 
             endRound();
-            reward(a);
         }
 
         System.out.println(a.hp > 0 ? "A wins" : "B wins");
@@ -49,6 +50,9 @@ public class Combat_Engine {
     private void endRound() {
         a.endBattle();
         b.endBattle();
+        if (a.hp > 0 && a.para < 100){
+            reward(a);
+        }
     }
 
     private void reward(Entity e) {
